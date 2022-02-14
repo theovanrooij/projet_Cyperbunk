@@ -6,10 +6,18 @@
 import scrapy
 
 
-class WattpadItem(scrapy.Item):
+class WattpadStoryItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     story_id = scrapy.Field()
     chapter_id = scrapy.Field()
     chapter = scrapy.Field()
     
+
+class WattpadItem(scrapy.Item):
+    title = scrapy.Field()
+    star = scrapy.Field()
+    views = scrapy.Field()
+    ranking = scrapy.Field()
+    chapNb =scrapy.Field()
+    autors = scrapy.Field()

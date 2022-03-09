@@ -32,8 +32,8 @@ class SpidemetaSpider(scrapy.Spider):
 
     def parse(self, response):
         for linkBook in response.css(".list_livre") :
-            #yield {"linkbook":linkBook.css("a::attr(href)").extract_first()}
-            yield Request("https://www.babelio.com"+linkBook.css("a::attr(href)").extract_first(), callback=self.parse_book,dont_filter=True)
+            yield {"linkbook":linkBook.css("a::attr(href)").extract_first()}
+            # yield Request("https://www.babelio.com"+linkBook.css("a::attr(href)").extract_first(), callback=self.parse_book,dont_filter=True)
     pass
 
 

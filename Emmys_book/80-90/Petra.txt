@@ -1,0 +1,758 @@
+Petra
+GREG BEAR
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Titre original :
+Petra
+© 1982, by Greg Bear
+Première parution dans Omni, février 1982.
+ C’est en 1966 que Greg Bear vendit sa première nouvelle – il avait alors
+quinze ans. Il lui fallut cependant attendre la fin des années soixante-dix et
+le début des années quatre-vingt pour donner sa vraie mesure, quand une
+rafale  de  nouvelles  et  de  romans  l’eurent  désigné  comme  un  écrivain  à
+suivre.
+L’œuvre de Greg Bear s’ancre dans la meilleure tradition intellectuelle
+de la S-F Auteur prolifique et discipliné, il accorde une grande valeur à la
+rigueur spéculative et au respect du fait scientifique. Cette attitude le lie à la
+S-F pure et dure traditionnelle – malgré une production fort appréciée dans
+le domaine de la « fantasy ».
+Au fil de sa carrière, les ressources de son imagination devaient se
+manifester d’une façon d’autant plus frappante qu’elles étaient servies par
+un solide métier. Une telle combinaison a engendré une S-F radicalement
+« hard » animée d’une grande puissance visionnaire, comme le démontrent
+des romans aussi largement appréciés que La Musique du sang et Eon.
+La nouvelle suivante, publiée au début de 1982, a marqué chez l’auteur
+un  saut  quantique  qui  lui  a  fait  dépasser  les  limites  traditionnelles  pour
+l’entraîner dans des domaines neufs et passablement ahurissants. De par son
+traitement  soigné  et  détaillé  d’un  concept  franchement  fantastique,  elle
+révèle la technique de Bear à son sommet.
+ « Dieu est mort, Dieu est mort »… Perdition !
+Quand Dieu mourra, vous le saurez.
+Confessions de saint Augustin
+Je  suis  l’un  de  ces  fils  monstrueux  faits  de  pierre  et  de  chair  ;
+impossible de le nier. Je n’ai aucun souvenir de ma mère. Il est possible
+qu’elle m’ait abandonné peu après ma naissance. Très probablement, elle
+est morte. Mon père – hideuse chose à bec et à demi ailée, s’il ressemble à
+son fils – je ne l’ai jamais vu.
+Pourquoi un tel malheureux voudrait-il jouer les historiens ? Je crois
+pouvoir pointer le moment où je fis ce choix. Il appartient à mes souvenirs
+les plus anciens, et doit s’être produit il y a une trentaine d’années, bien que
+j’aie la certitude d’avoir auparavant vécu de nombreuses années aujourd’hui
+perdues  pour  moi.  Ce  jour-là,  je  me  tenais  accroupi  derrière  les  lourds
+rideaux poussiéreux d’un vestibule ; j’écoutai un prêtre raconter Mortdieu à
+des novices, tous de pure chair. Ses mots sont toujours vivants dans ma
+mémoire.
+«  D’après  mon  estimation  la  plus  précise,  disait-il,  Mortdieu  se
+produisit il y a environ soixante-dix ans. Les savants nient que les forces de
+la magie aient alors été libérées de par le monde, mais rares sont ceux qui
+contestent que Dieu, en tant que tel, soit mort. »
+C’était  faire  montre  d’une  excessive  sobriété  langagière.  Toutes  les
+charnières de notre univers autrefois grandiose avaient cédé, l’axe basculé,
+les  portes  cosmiques  s’étaient  refermées  à  la  volée  et  les  règles  de
+l’existence avaient perdu leurs fondements. N’importe, le prêtre continuait,
+d’une voix crispée de respect, à décrire cette époque.
+«  J’ai  entendu  des  sages  parler  de  ce  lent  déclin.  Là  où  la  pensée
+humaine était forte, le soudain ébranlement de la réalité prit des allures de
+petite secousse tellurique. Là où la pensée était faible, la réalité disparut,
+engloutie par le chaos. Toute illusion devint aussi tangible que la matière
+elle-même. » Sa voix tremblait d’émotion. « La douleur aveuglait, le sang
+s’embrasait dans nos veines, les os se brisaient,  la  chair se réduisait  en
+poussière. L'acier coulait comme un liquide. L’ambre pleuvait des deux.
+Des  foules  se  pressaient  dans  des  rues  qui  ne  correspondaient  plus  au
+moindre  plan,  si  tant  est  que  les  plans  eux-mêmes  n’eussent  pas  été
+modifiés.  Les  hommes  ne  savaient  que  faire.  Leurs  faibles  esprits  ne
+pouvaient saisir… »La plupart des humains, à ce que je comprends, étaient déjà bien trop
+irrationnels.  Des  peuples  entiers  disparurent,  ou  se  transformèrent  en
+d’incompréhensibles tourbillons de misère et de dépravation. On dit que
+quelques  universités,  bibliothèques  et  musées  survécurent,  mais  nous
+n’avons à ce jour que peu de contacts avec eux.
+Je pense souvent à ces malheureuses victimes des premiers temps de
+Mortdieu. Elles avaient connu un monde relativement stable ; nous nous
+sommes adaptés depuis lors. Les gens virent avec horreur les villes devenir
+forêts, leurs cauchemars prendre vie. Des corbeaux prodigues se perchèrent
+sur la cime d’arbres qui, naguère, avaient été des immeubles ; des cochons,
+debout sur leurs pattes arrière, parcoururent les rues au pas de course… et
+ainsi  de  suite.  (Le  prêtre  ne  poussait  pas  ses  novices  à  méditer  sur  ces
+bizarreries.  «  La  surexcitation,  affirmait-il,  attise  la  prolifération  des
+monstres. »)
+Notre Cathédrale survécut. Dans cette région, cependant, la rationalité
+s’était émoussée quelques siècles avant Mortdieu, pour être remplacée par
+une  vague  routine.  La  Cathédrale  souffrit.  Les  survivants  –  clergé  et
+employés, fidèles en quête d’un refuge – furent la proie de sinistres visions,
+et firent de sinistres rêves. Ils virent accéder à la vie toutes les sculptures de
+pierre  de  la  Cathédrale.  Dans  un  univers  coupé  de  tout  fondement,  il
+suffisait  d’un  être  capable  de  voir  et  de  croire  pour  que  mes  aïeux
+abandonnent leur enveloppe de pierre et deviennent créature de chair. Des
+siècles de célibat minéral pesaient sur eux. Quarante-neuf nonnes avaient
+trouvé refuge  dans la  Cathédrale et,  si  l’on  en croit  quelques grossières
+légendes, ne se montrèrent point farouches. Mortdieu eut sur les fidèles un
+effet aphrodisiaque étonnant, et des acouplements eurent lieu.
+De  la  durée  de  la  gestation,  on  ignore  tout  car,  à  cette  époque,  la
+grande roue de pierre n’avait pas été lancée dans ce mouvement d’avant en
+arrière qui permet de compter les heures. De même, personne ne s’était vu
+octroyer la chaise de Chronos afin de surveiller ladite roue et fournir une
+ligne directrice pour les activités quotidiennes.
+Mais la chair ne rejeta pas la pierre et c’est ainsi que naquirent les fils
+et les filles de chair et de pierre, dont je suis. Celles qui avaient forniqué
+avec des figures inhumaines furent chassées vers les plus hauts des recoins
+secrets pour y élever – ou éliminer – leur monstrueuse progéniture. Celles
+qui  avaient  accepté  les  étreintes  des  saints  de  pierre  et  autres  figures
+humaines furent l’objet d’un moindre blâme, mais néanmoins bannies versles sphères supérieures. On érigea une structure de bois afin de diviser la
+grande nef en deux niveaux. Pour éviter que les ordures ne pleuvent, on
+tendit un drap de grosse toile au-dessus de l’échafaudage et, au premier
+niveau  de  la  Cathédrale,  les  plus  humains  des  fils  de  pierre  et  de  chair
+s’attachèrent à créer une vie nouvelle.
+J’ai longtemps essayé de comprendre comment un semblant d’ordre
+avait vu le jour. Selon la légende, ce fut l’archexistentialiste Jansard – celui-
+là même qui crucifia saint Argentine le bien-aimé – qui, se repentant àe son
+erreur, découvrit que l’esprit et la pensée pouvaient apaiser la mer démontée
+de la réalité.
+Le prêtre achevait son sermon, ô combien sommaire, en soulignant
+brièvement  ce  point  :  «  À  jamais  privée  du  regard  vigilant  de  Dieu,
+l’humanité dut s’emparer de la trame effilochée du monde. Les survivants –
+ceux qui avaient eu l’intelligence de préserver leur enveloppe chamelle –
+devinrent la seule force de cohésion au milieu du chaos. »
+J’avais déjà acquis une maîtrise du langage suffisante pour comprendre
+les paroles du prêtre ; ma mémoire était bonne – elle l’est toujours – et ma
+curiosité naturelle me donnait envie d’en apprendre davantage.
+En rampant derrière les rideaux poussiéreux qui tapissaient les murs de
+pierre, j’écoutais prêtres et nonnes psalmodier les Écritures à l’intention
+d’une  volée  d’enfants  de  chair.  La  scène  se  passait  au  rez-de-chaussée.
+C’est dire que j’étais en grand danger ; les êtres de pure chair regardaient
+les gens de mon espèce comme une abomination. Mais le risque méritait
+d’être couru.
+Je  parvins  à  dérober  un  psautier  et  appris  à  lire.  Je  volai  d’autres
+livres ; ils m’aidèrent à définir mon propre monde en m’offrant les moyens
+de le comparer à d’autres univers. Tout d’abord, je ne crus pas à l’existence
+de ces autres mondes. Seule la Cathédrale s’inscrivait dans la réalité. J’ai
+encore des doutes, d’ailleurs. Lorsque je colle mon visage à l’œil-de-bœuf
+percé dans l’un des murs de ma chambre, j’aperçois la grande forêt et le
+fleuve qui entourent la Cathédrale, mais rien de plus. Aussi mon expérience
+des autres mondes est-elle loin d’être directe.
+Peu importe. Je lis, mais n’ai rien d’un érudit. Ce qui m’intéresse, c’est
+l’histoire  récente  –  l’ultime  finalité  engendrée  par  cette  heure  passée  à
+l’écoute du prêtre. Du métaphysique au personnel pur.
+Je  suis  petit  –  à  peine  quatre-vingt-dix  centimètres  –  mais  je  me
+déplace avec rapidité dans la plupart des passages secrets. Je peux doncobserver sans attirer l’attention. Peut-être suis-je même le seul historien de
+notre communauté ? D’autres, qui prétendent à ce rôle, négligent ce qu’ils
+ont sous les yeux. Ils recherchent des vérités suprêmes, ou du moins de
+Grands  Schémas  ;  ou,  si  vous  préférez,  une  histoire  où  l'historien  ne
+s’implique  pas  et  se  contente  de  regarder  les  autres.  Si  objectif  que  je
+m’efforce d’être, j’ai des sujets de prédilection…
+ 
+Au moment où commence mon histoire, les enfants de pierre et de
+chair étaient encore en quête du Christ de pierre. Ceux d’entre nous qui
+étaient  issus  de  l’union  de  gargouilles  ou  de  statues  de  saints  avec  de
+malheureuses  nonnes  croyaient  que  notre  salut  résidait  dans  le  grand
+célibataire  de  pierre,  éveillé  à  la  vie  de  concert  avec  toutes  les  autres
+statues.
+Bien moins importants étaient les rendez-vous secrets de la fille de
+l’évêque avec un jeune homme de pierre et de chair. Pourtant, de telles
+rencontres étaient interdites, même entre gens de chair pure ; comme, de
+surcroît, ces amoureux n’étaient pas mariés, leur double péché m’intriguait.
+Elle s’appelait Constantia et avait quatorze ans. La silhouette élancée,
+la chevelure brune et la poitrine pleine, elle avait un regard qui trahissait ce
+stupide culte du divin fréquent chez les filles de cet âge. Lui se prénommait
+Corvus et avait quinze ans. Je ne me souviens pas très précisément de ses
+traits,  mais  il  était  assez  beau  et  agile  ;  il  escaladait  les  échafaudages
+presque aussi vite que moi. Je les découvris pour la première fois durant
+l’un de ces nombreux raids où j’allais voler des livres dans la réserve. Ils se
+tenaient dans la pénombre, mais j’ai l’œil perçant. Ils parlaient à voix basse,
+de manière hésitante. Quand je les vis, mon cœur se serra ; je songeais à
+leur tragédie, car je compris immédiatement que Corvus n’était pas de pure
+chair et que Constantia était la fille de l’évêque en personne. J’eus la vision
+du vieux tyran infligeant à Corvus le châtiment traditionnel pour de tels
+manquements aux règles de la moralité et de la hiérarchie : la castration.
+Pourtant, il y avait dans leur dialogue une douceur qui masquait presque la
+puanteur de la nef inférieure.
+« As-tu déjà embrassé un homme ?
+— Oui.
+— Qui ça ?
+— Mon frère. » Elle éclata de rire.« Et puis ? » Sa voix s’était faite plus tranchante. Ce frère, il serait
+capable de le tuer, semblait-il dire.
+« Jules, un ami.
+— Où est-il ?
+— Oh ! Il a disparu au cours d’une expédition pour ramasser du bois.
+— Ah ! » Il l’embrassa à nouveau. Je suis un historien, pas un voyeur,
+je tairai donc l’éclosion de leur passion. Si Corvus avait eu le moindre bon
+sens, iî aurait joui de sa conquête pour ne plus jamais revenir. Mais il lui
+était attaché et continua à la voir malgré le danger. C’était de la loyauté, de
+l’amour, de la fidélité, et c’était rare. Cela me fascinait.
+ 
+Je viens de prendre le soleil un bon moment, de regarder le monde au-
+delà des arcs-boutants. Il fait beau. La Cathédrale ressemble à un lézard très
+ventru dont les arcs-boutants seraient les pattes. Chacun dispose à sa base
+de maisonnettes où les gargouilles à tête de dragon avaient coutume de se
+pencher au-dessus des arbres (ou de la ville, ou de tout ce qui se trouvait en
+contrebas). Aujourd’hui, des gens vivent là. Il n’en est pas toujours allé
+ainsi. Jadis, le soleil était interdit. Depuis leur enfance, Corvus et Constantia
+s’étaient vu refuser sa lumière de sorte que, malgré leur jeunesse éclatante,
+ils affichaient un visage blême et noirci par la. fumée des chandelles et des
+lampes à huile. En ce temps-là, il fallait faire partie d’une expédition de
+ramassage de bois pour prendre un peu de soleil.
+Après  avoir  espionné  l’une  des  rencontres  clandestines  des  jeunes
+amoureux,  je  rêvassai  une  heure  dans  un  coin  sombre,  puis  m’en  allai
+rendre visite à l’apôtre Thomas ; le géant de cuivre était la seule forme
+humaine à vivre si haut dans la Cathédrale. Il arborait une règle graduée sur
+laquelle était gravé son véritable nom – on avait modelé l’apôtre d’après
+Viollet-le-Duc, qui avait autrefois restauré la Cathédrale. Il connaissait la
+Cathédrale mieux que quiconque et je l’admirais beaucoup. La plupart des
+monstres  l’évitaient  –  par  peur,  sinon  pour  une  autre  raison.  C’était  un
+colosse, noir comme la nuit, mais tacheté de vert pâle, le visage plissé en
+une méditation éternelle. Il se trouvait assis non loin de la base de la flèche,
+dans sa traditionnelle niche de bois, à moins de six mètres de l’endroit où
+j’écris maintenant ces lignes, et méditait sur des temps que nul d’entre nous
+n’avait  connus  :  des  temps  de  joie  et  d’amours  enfuies  si  l’on  en  croit
+certains ; selon d’autres, il songeait au fardeau qui lui incombait maintenant
+que la Cathédrale était devenue le centre de ce monde chaotique.C’est le géant qui m’avait élu entre les hordes hideuses dès lors qu’il
+m’avait vu avec un psautier. Il m’encouragea à poursuivre mes efforts de
+lecture. « Tu as l’œil vif, me dit-il. Ta mobilité dénote ta vivacité d’esprit et
+tu es propre et sec. Tu n’es point creux comme les gargouilles ; tu as une
+substance. Pour notre salut à tous, sers-t’en pour apprendre les mystères de
+la cathédrale. »
+Je m’y appliquai donc.
+Il leva les yeux à mon entrée. Je m’assis sur un tronc à ses pieds et
+dis : « Une fille de chair fréquente un fils de pierre et de chair. »
+Il haussa ses massives épaules. « Il ne peut en être autrement, avec le
+temps.
+— N’est-ce pas un péché ?
+— C’est un acte si monstrueux qu’il dépasse le péché pour devenir
+nécessité, fit-il. Cela se reproduira de plus en plus au fil des ans.
+— Je crois qu’ils s’aiment, ou qu’ils vont s’aimer. »
+Il hocha la tête. « À part moi, il n’y a que l’Autre à ne pas avoir
+forniqué durant la nuit de Mortdieu. Hormis l'Autre, je suis seul à pouvoir
+juger. »
+J’attendis qu’il me donnât son jugement, mais il soupira et me tapota
+l’épaule. « Et je ne juge jamais, n’est-ce pas, mon vilain ami ?
+— Jamais, répondis-je.
+— Alors abandonne-moi à ma tristesse », ajouta-t-il en clignant de
+l’œil. « Et souhaitons-leur plus de force. »
+L’évêque de la Cathédrale était un vieillard. D’après les commérages,
+il n’aurait pas été évêque avant Mortdieu ; il se serait agi d’un vagabond
+survenu durant le chaos, avant que la forêt n’ait remplacé la ville, qui se
+serait  octroyé  la  responsabilité  suprême  de  cette  section  de  l’ancien
+domaine de Dieu en prétextant qu’on le lui avait demandé.
+Il était petit, massif, doté d’énormes bras velus semblables aux mors
+d’un étau. Un jour, il avait tué une gargouille rien qu’en la serrant entre ses
+doigts, et pourtant les gargouilles, faute d’avoir des entrailles comme vous
+(je suppose) et moi, sont des êtres coriaces. Les cheveux qui ceignaient son
+crâne chauve étaient blancs, drus et indisciplinés, et ses sourcils saillaient
+au-dessus de son nez avec une souplesse merveilleuse. Tel un porc, il était
+toujours  en  rut,  mangeait  énormément  et  déféquait  une  merde  liquide
+(aucun détail ne m’échappe). Un homme. de son temps s’il en fut.C’était lui qui avait décrété le bannissement de tous ceux qui n’étaient
+pas de pure chair, le meurtre à vue de tous ceux qui n’avaient pas forme
+humaine.
+Après ma visite au géant, je trouvai la nef inférieure en effervescence.
+On avait vu quelqu’un grimper dans l’échafaudage et on avait envoyé la
+troupe pour l’abattre. Il s’agissait de Corvus, bien entendu. J’étais meilleur
+grimpeur et connaissais à la perfection l’enchevêtrement des poutrelles ;
+aussi est-ce moi, quand il se trouva coincé dans un semblant de cul-de-sac,
+qui, dans la pénombre, lui indiquai du doigt un trou suffisamment grand
+pour qu’il puisse s’y glisser et se sauver. Il s’y précipita sans un mot de
+remerciement, mais je n’ai jamais été à cheval sur l’étiquette. Quant à moi,
+je pénétrai dans le mur de pierre par une fente de la largeur d’une main
+(menue) et me faufilai jusqu’en bas pour voir ce qui allait se passer. Des
+événements aussi excitants étaient rares.
+Le bruit courait que la silhouette avait été aperçue en compagnie d’une
+fille, mais la foule ignorait l’identité de celle-ci. Les hommes et les femmes
+qui se pressaient dans l’atmosphère enfumée, entre les rangées de masures à
+toit  ouvert,  bavardaient  gaiement.  À  l’époque,  castrations  et  exécutions
+comptaient parmi nos rares plaisirs ; je les appréciais moi aussi, mais il se
+trouvait que les victimes potentielles m’intéressaient et j’étais inquiet.
+Mon inquiétude et mon intérêt furent plus forts que moi. Je me glissai
+dans une brèche que l’on n’avait pas réparée et tombai d’un côté de la ruelle
+courant  entre  le  mur  extérieur  et  les  masures.  Un  groupe  d’adolescents
+crasseux me repéra. « Il est là ! hurlèrent-ils. Il n’a pas réussi à s’enfuir ! »
+La troupe masquée de l’évêque a la liberté de circuler sur tous les
+niveaux.  Elle  faillit  m’acculer  ;  elle  m’attendait  à  un  point  crucial  des
+escaliers – je devais les traverser pour atteindre l’étape suivante de ma fuite
+vers le salut – et m’obligea à rebrousser chemin. Je me targuais de connaître
+la Cathédrale de fond en comble, mais, tandis que je me carapatais comme
+un fou, je tombai sur un tunnel que je n’avais encore jamais remarqué. Il
+plongeait  dans  un  épais  mur  de  fondation.  J’étais  en  sécurité  pour  le
+moment, mais craignais que l’on ne dénichât mes caches de nourriture et
+que l’on n’empoisonnât mes barils d’eau de pluie. Cela dit, je ne pouvais
+rien  faire  tant  que  mes  poursuivants  demeuraient  dans  les  parages  ;  je
+décidai donc de consacrer ces heures d’angoisse à l’exploration du tunnel.
+La  Cathédrale  est  une  source  constante  de  surprises  ;  je  me  rends
+compte à présent que je ne connaissais pas alors la moitié de ce qu’elleavait à offrir. Il est toujours de nouveaux moyens de se rendre d’un endroit
+à un autre (à mon avis, certains passages sont aménagés quand personne ne
+regarde) et il arrive même qu’il y ait de nouveaux endroits à découvrir.
+Tandis que les sbires de l’évêque reniflaient au-dessus de la brèche, près des
+escaliers – seul un enfant de deux ou trois ans aurait pu s’y introduire – je
+descendis une volée de marches grossières conduisant vers les profondeurs
+de la pierre. L’eau et la boue rendaient ma progression difficile, glissante.
+L’espace d’un moment, je me retrouvai dans une obscurité d’une opacité
+qui m’était encore inconnue – obscurité si dense que la seule absence de
+lumière ne suffisait pas à l’expliquer. Puis j’aperçus une faible lueur jaune
+en contrebas. Très prudemment, je ralentis pour avancer en silence. Passé
+une  porte  métallique  rugueuse  et  rouillée,  j’entrai  dans  les  lieux  d’où
+provenait la lumière. Il y flottait une odeur de pierre effritée, une senteur
+d’eau minérale, de gadoue – et la puanteur d’une gargouille morte. La bête
+gisait sur le sol de la pièce étroite ; elle paraissait morte depuis plusieurs
+mois, mais sentait toujours. J’ai déjà souligné combien il est difficile de tuer
+une gargouille – pourtant celle-ci avait été assassinée. Trois cierges, placés
+de  fraîche  date  dans  les  niches  autour  de  la  pièce,  frémissaient  sous  le
+courant d’air léger venant d’en haut. Malgré mes craintes, je traversai le
+dallage, m’emparai d’un cierge et examinai le tronçon suivant du tunnel.
+Sur plusieurs mètres encore, il s’enfonçait dans les profondeurs pour
+aboutir à une nouvelle porte métallique. C’est là que je détectai une odeur
+qui m’était encore inconnue – l’odeur d’une pierre purissime, tel un jade
+rare ou un marbre immaculé. J’éprouvai comme une légère ivresse qui me
+fit presque éclater de rire, mais mon extrême prudence m’en empêcha. Je
+poussai la porte et fus accueilli par une bouffée d’air le plus frais, le plus
+doux, de cet air qui flotte auprès de la tombe d’un saint dont le corps ne
+corrompt point l’environnement mais repousse plutôt la putréfaction vers
+les  profondeurs  du  néant.  J’en  demeurai  le  bec  ouvert.  À  travers  les
+ténèbres, la lueur de la chandelle était tombée sur une silhouette que je pris
+d’abord pour celle d’un petit enfant. Mais je changeai bientôt d’avis. La
+silhouette affichait plusieurs âges à la fois. Comme je cillai, elle prit la
+forme d’un homme d’une trentaine d’années, bien constitué, le front et les
+mains élégants, pâles comme la glace. Il avait les yeux rivés sur le mur
+derrière moi. Je me laissai tomber sur mes genoux squameux, posai mon
+front  du  mieux  que  je  pus  contre  la  pierre  froide  tout  en  frissonnant
+jusqu’au  bout  de  mes  ailes  vestigielles.  «  Pardonne-moi,  Joyau  desEspérances  de  l’Homme,  dis-je.  Pardonne-moi.  »  J’avais  découvert  la
+retraite du Christ de pierre.
+« Tu es pardonné, répondit-il d’une voix lasse. Tôt ou tard, tu devais
+arriver jusqu’ici. Mieux vaut maintenant que plus tard, lorsque… » Sa voix
+s’estompa et Il secoua la tête. Il était très mince et seule l’enveloppait une
+robe  grise  qui  portait  encore  les  stigmates  des  siècles.  «  Pourquoi  es-tu
+venu ?
+— Pour échapper à la troupe de l’évêque. »
+Il acquiesça. « Ah oui, l’évêque. Depuis combien de temps suis-je ici ?
+—  Depuis  avant  ma  naissance,  Seigneur.  Soixante  ou  soixante-dix
+ans. » Il était si mince, presque éthéré, cet être en qui j’avais imaginé un
+solide charpentier. Je baissai la voix et l’implorai : « Que puis-je faire pour
+vous servir, Seigneur ?
+— T’en aller.
+— Je ne pourrai pas vivre avec un tel secret. Vous êtes le salut. Vous
+avez le pouvoir de renverser l’évêque et d’abolir la hiérarchie qui sépare les
+niveaux.
+— Je ne suis ni  général ni  soldat.  Va-t’en, je  t’en prie et  ne dis  à
+pers… »
+Je sentis un souffle d’air dans mon dos, puis le sifflement d’une arme.
+Je me jetai de côté et mes plumes se soulevèrent tandis qu’une épée de
+pierre me frôlait avant de heurter le sol. Le Christ leva la main. Toujours
+sous le choc, je découvris une bête qui me ressemblait fort. Le visage noir
+de fureur, elle me retourna mon regard, figée cependant par le pouvoir de Sa
+main.  J’aurais  dû  me  montrer  plus  prudent  —  la  gargouille  morte,  les
+cierges neufs…
+« Mais Seigneur, grogna la bête, il va parler.
+—  Non,  fit  le  Christ.  Il  ne  dira  rien  à  personne.  »  Il  me  regardait
+presque sans me voir et murmura : « Va-t’en, va-t’en. »
+En pleurs, je rampai et glissai dans la pénombre orangée qui baignait la
+Cathédrale. Je ne pouvais même pas aller voir le géant. J’avais été réduit au
+silence aussi sûrement que si l’on m’avait tranché la gorge.
+Le  lendemain  matin,  j’observai  depuis  un  sombre  recoin  de
+l’échafaudage la foule s’attrouper autour d’un homme seul vêtu d’une robe
+crasseuse  en  toile  de  jute.  Je  l’avais  déjà  vu  ;  il  s’appelait  Psalo  et,  en
+témoignage de la magnanimité de l’évêque, on ne l’importunait pas. Geste
+symbolique ; la plupart des gens le considéraient comme à moitié fou.Ce  matin-là,  pourtant,  je  prêtai  l’oreille  au  discours  de  Psalo  et
+découvris  que  ses  paroles  trouvaient  chez  moi  un  incroyable  écho.  Il
+exhortait l’évêque et ses sbires à laisser à nouveau entrer la lumière dans la
+Cathédrale en ôtant les bâches qui aveuglaient les fenêtres. Il avait déjà
+formulé cette revendication à laquelle l’évêque avait répondu comme de
+coutume – la lumière engendrerait un surcroît de chaos, car l’esprit humain
+était désormais un cloaque d’illusions. Au moindre encouragement, c’en
+serait fini de la sécurité des habitants de la Cathédrale.
+À cette époque, je regardais sans plaisir croître l’amour de Constantia
+et de Corvus. Ils devenaient plus insouciants. Leur dialogue se faisait plus
+hardi.
+« Nous annoncerons notre mariage, disait Corvus.
+— Ils ne le permettront jamais. Ils te… châtreront.
+—  Je  suis  malin.  Ils  ne  m’attraperont  jamais.  L’Église  a  besoin  de
+chefs, de révolutionnaires courageux. Si personne ne brise les traditions,
+tout le monde en souffrira.
+— Je crains pour ta vie – et pour la mienne. Mon père serait capable de
+me rejeter comme un agneau malade.
+— Ton père n’a rien d’un berger.
+— C’est mon père », dit Constantia, les yeux grands ouverts, les lèvres
+pincées.
+Assis le bec entre les pattes, les yeux mi-clos, je parvenais à imiter
+chaque déclaration avant même qu’elle ne soit formulée. L’amour éternel…
+l’espoir d’un avenir terne… conneries et mélo ! Tout cela, je l’avais lu dans
+des livres sentimentaux cachés dans le bric-à-brac d’une défunte nonne. Dès
+que j’eus fait ce rapprochement, mesuré l’immuable banalité – ainsi que la
+futilité  –  de  ce  que  je  voyais,  et  que  je  comparai  le  babillage  de  ces
+amoureux à l’infinie tristesse du Christ de pierre, je basculai de l’innocence
+au  cynisme.  La  transition  m’étourdit,  ne  laissant  derrière  elle  que  de
+maigres flaques de noble émotion, mais l’avenir me parut limpide. Corvus
+serait pris et exécuté ; sans mon aide, il aurait déjà été châtré sinon mis à
+mort. Constantia pleurerait, s’empoisonnerait ; les troubadours chanteraient
+cette histoire (ceux-là même qui auraient acclamé la mort de l’amant) ; moi-
+même,  j’écrirais  peut-être  cette  chronique  à  laquelle  je  songeais  depuis
+longtemps et, plus tard, peut-être suivrais-je leurs traces, succombant à mon
+tour au péché d’ennui.Au fil de la nuit, les choses devinrent plus discutables. Il était facile de
+fixer  l’écran  noir  d’un  mur,  d’y  laisser  s’y  matérialiser  les  rêves.  Jadis,
+paraît-il, les rêves ne prenaient forme que durant le sommeil ou lors de
+brèves  incursions  dans  l’imaginaire  ;  du  moins  l’ai-je  déduit  de  mes
+lectures.  Personnellement,  je  n’ai  que  trop  souvent  combattu  ces  choses
+nées de mes rêves qui, soudain libres et affamées, se détachaient du mur. Il
+arrive fréquemment que les gens meurent durant la nuit, dévorés par leurs
+propres cauchemars.
+Ce soir-là, je m’endormis la tête pleine de visions du Christ de pierre.
+Je rêvai de saints hommes, d’anges et d’élus de Dieu. Comme j’en avais
+l’habitude,  je  m’éveillai  en  sursaut  L’un  des  personnages  était  resté  en
+arrière. Les autres, je les distinguai qui allaient et venaient de l’autre côté de
+l’œil-de-bœuf,  et  faisaient  en chuchotant  des plans pour s’enfuir  vers  le
+paradis. L’apparition demeurée là formait une silhouette sombre dans un
+coin. Elle avait le souffle rauque. « Je m’appelle Pierre, dit-elle, on me
+prénomme  également  Simon.  Je  suis  la  pierre  sur  laquelle  est  bâtie  son
+Église et les papes seraient les héritiers de ma charge.
+— Je suis pierre aussi, répliquai-je. Du moins, en partie.
+— Ainsi soit-il. Tu dois donc hériter de ma charge. Va et sois pape. Ne
+vénère  pas  le  Christ  de  pierre,  car  un  Christ  ne  vaut  que  par  ce  qu’il
+accomplit et s’il n’accomplit rien, il n’est point de salut à attendre de Lui. »
+L’ombre  tendit  la  main  pour  tapoter  ma  tête  et  je  vis  ses  yeux
+s’agrandir de surprise quand elle eut pris conscience de ma morphologie.
+Elle  marmonna  quelques  formules  destinées  à  chasser  les  démons,  puis
+s’échappa par la fenêtre pour rejoindre ses compagnons.
+Si  de  tels  propos  étaient  rapportés  au  Conseil  ecclésiastique,  on
+pouvait  supposer,  conformément  au  droit  canon,  que  cette  bénédiction
+accordée  par  un  fantasme  onirique  serait  déclarée  sans  valeur.  Je  m’en
+moquais. C’était la meilleure suggestion que j’avais reçue depuis que le
+géant de cuivre m’avait conseillé de lire et de m’éduquer.
+Mais il faut, pour être pape, disposer d’une hiérarchie de serviteurs
+susceptibles d’exécuter vos ordres. La pierre la plus puissante ne peut se
+mouvoir seule. Aussi, enflé d’un sentiment de puissance, décidai-je de me
+présenter dans la nef inférieure pour annoncer aux gens la nouvelle.
+Il  fallait  bien  du  courage  pour  apparaître  ainsi  en  plein  jour,  sans
+manteau, et arpenter le second niveau de l’échafaudage au milieu d’une
+horde de vendeurs qui préparaient leurs étals. Certains firent montre d’unsectarisme classique, d’autres voulurent me chasser à coups de pied ou se
+gaussèrent de moi. Mon bec les en dissuada. Je grimpai en haut d’une stalle
+d’importance sous un cercle de lumière brouillée, puis m’éclaircis la gorge.
+Sous une pluie de grenades pourries et de légumes flasques, je révélai mon
+identité à la foule, lui contai ma vision. Paré d’une couronne de détritus, je
+sautai à terre au bout de quelques minutes et m’enfuis vers l’entrée d’un
+tunnel trop étroit pour la plupart des hommes. Certains jeunes garçons me
+suivirent et l’un d’entre eux perdit même un doigt en essayant de me couper
+avec un fragment de verre coloré.
+Une révélation directe s’avérait inutile. Il existe plusieurs niveaux de
+sectarisme, et je me situais tout en bas de chacune des listes.
+Ma  stratégie  suivante  consista  à  trouver  un  moyen  d’ébranler  la
+Cathédrale de fond en comble. Les sots eux-mêmes, quand ils sont ravalés
+au rang de populace, peuvent être troublés par la présence d’un être capable
+et manifestement élu. Je passai deux jours à circuler entre les murs. Dans
+une structure aussi fragile que celle de l’Église, il devait bien exister une
+faille fondamentale et, sans envisager toutefois une destruction totale, je
+souhaitais quelque chose de spectaculaire, d’inéluctable.
+Tandis que je réfléchissais, suspendu au-dessus de la communauté de
+pure chair, la voix grave et rocailleuse de l’évêque se fit entendre, dominant
+le brouhaha de la foule. J’ouvris les yeux, observai la situation dans la nef
+inférieure. La troupe masquée immobilisait une silhouette agenouillée au-
+dessus de laquelle l’évêque psalmodiait : « Que tous ceux qui m’entendent
+à présent sachent que ce jeune bâtard de chair et de pierre… »
+Corvus, me dis-je. Ils ont fini par le prendre. Je fermai un œil, mais le
+second refusa de renoncer au spectacle.
+«… a violé ce que nous avons de plus sacré et qu’il expiera ses crimes
+ici, demain, à la même heure. Chronos ! Note la progression de la roue ! »
+Celui qui officiait sous le nom de Chronos, un vieillard grand et maigre,
+avec des cheveux gris sale qui lui descendaient jusqu’aux reins, s’empara
+d’un morceau de charbon et traça un X sur le vaste tableau mural, derrière
+lequel la roue tournait avec force grincements.
+La foule hurlait son enthousiasme. Je vis Psalo se frayer un chemin
+dans l’assistance.
+« Quel crime a-t-il commis ? lança-t-il. Dites-le-nous.
+—  Violation  du  niveau  inférieur  !  répliqua  le  chef  de  la  troupe
+masquée.—  Voilà  qui  mérite  le  fouet  et  un  retour  sous  escorte  vers  l’étage
+supérieur, fit Psalo. Je soupçonne un crime autrement plus sérieux. De quoi
+s’agit-il ? »
+L’évêque abaissa un regard glacial sur Psalo. « Il a essayé de violer ma
+fille Constantia. »
+À cela, Psalo ne pouvait rien répondre. La peine était la castration et la
+mort. Tous les humains purs acceptaient cette loi. Il n’y avait nul recours.
+Je méditai en observant Corvus que l’on conduisait au cachot. L’avenir
+que je souhaitais alors m’apparut dans toute sa clarté. J’en sursautai. Je
+voulais cette part d’héritage qui m’avait été déniée – pour être en paix avec
+moi-même, entouré de ceux qui m’acceptaient, de ceux qui ne valaient pas
+mieux que moi. Avec le temps, c’est ce qui se produirait, avait dit le géant.
+Mais en serais-je jamais témoin ? Ce que Corvus essayait de faire, par le
+biais de la chair, c’était d’unifier les niveaux en mêlant chair et pierre pour
+qu’un jour nul ne puisse voir la différence.
+Au-delà de ce point, mes plans demeuraient très flous. Il s’agissait
+moins de plans que de sentiments rayonnants, d’images de bonheur où des
+enfants jouaient de par les champs et les forêts au-delà de l'île, tandis que le
+monde  se  tissait  sous  le  regard  bienveillant  de  l’héritier  de  Dieu.  Mes
+enfants, jouant dans la forêt. Le souffle de la vérité m’effleura alors. J’avais
+désiré être Corvus quand il prenait Constantia.
+J’avais donc à présent deux tâches que je pourrais accomplir de pair si
+je faisais montre d’intelligence. Il me fallait distraire l’évêque et sa troupe
+et sauver Corvus, mon camarade révolutionnaire.
+La  nuit  suivante  dans  ma  chambre  me  fut  un  supplice  fiévreux.  À
+l’aube, j’allai consulter le géant. Il me regarda froidement et dit : « Nous
+perdrons notre temps si nous essayons de leur faire entendre raison par la
+force. Mais que faire sinon le perdre, ce temps ?
+— Comment puis-je agir ?
+— Apporte-leur l’illumination. »
+Je frappai le sol d’une griffe nerveuse. « Ce sont des rocs ! Essayer
+d’illuminer des rocs ! »
+Il sourit de son petit sourire triste. « Illumine-les », répéta-t-il.
+Je  quittai  la  pièce  dans  une  colère  noire.  Je  n’avais  pas  accès  au
+tableau temporel de la grande roue, et ne pouvais donc savoir avec précision
+l’heure de l’exécution. Je devinais néanmoins – grâce aux gargouillements
+d’estomac dont je gardais le souvenir – qu’elle risquait de se produire endébut d’après-midi. J’errai d’un bout à l’autre de la nef, puis du transept. Je
+faillis m’effondrer d’épuisement. Comme je traversais une aile déserte de la
+Cathédrale,  je  ramassai  un  morceau  de  verre  coloré  que  j’examinai,
+intrigué. À tous les niveaux, nombre de garçons en avaient en poche, tandis
+que les filles s’en paraient – habitudes vivement désavouées par leurs aînés
+qui  affirmaient  que  ces  objets  brillants  favorisaient  la  prolifération  des
+monstres dans la tête. Où se les procuraient-ils donc ?
+Dans l’un des livres que j’avais étudiés des années auparavant, j’avais
+vu  des  illustrations  vivement  colorées  des  fenêtres  de  la  Cathédrale.
+« Illumine-les », avait dit le géant.
+La requête de Psalo demandant qu’on laissât entrer la lumière dans la
+Cathédrale me revint à l’esprit.
+Dans  la  galerie  qui  courait  au-dessus  de  la  nef,  je  découvris  les
+fixations  des  poulies  commandant  l’ouverture  des  bâches  recouvrant  les
+fenêtres. Les meilleures, décidai-je, devaient être les immenses fenêtres des
+transepts nord et sud. Dans la poussière, j’esquissai un dessin pour essayer
+de deviner la saison et donc l’orientation probable de la lumière – pure
+spéculation, mais je phosphorais alors fébrilement. Il fallait dévoiler toutes
+les fenêtres. Je ne parvenais pas à faire un choix.
+J’étais  prêt  en  début  d’après-midi,  juste  après  les  prières  de  sexte.
+J’avais sectionné les cordes principales et affaibli les fixations des poulies
+en les descellant du mur à l’aide d’un pic volé dans la salle d’armes de
+l’évêque. Je marchai le long d’une haute corniche, empruntai ensuite un
+puits  presque  vertical  qui  traversait  le  mur  jusqu’au  niveau  inférieur  et
+attendis.
+Installée derrière le balcon en bois de la loge réservée à l’évêque lors
+des exécutions, Constantia, à la fois terrifiée et fascinée, regardait Corvus
+sur l’estrade située à l’extrémité opposée de la nef, au centre de la croisée
+du transept. Des torches illuminaient la silhouette du jeune homme et celles
+de ses bourreaux, trois hommes et une femme.
+Je  connaissais  la  procédure.  La  vieille  femme  commencerait  par
+l’émasculer, puis les hommes lui ôteraient la tête. Corvus avait revêtu la
+robe des condamnés, rouge pour mieux dissimuler ce sang qui, chose que
+l’évêque  ne  voulait  pour  rien  au  monde,  risquait  d’exciter  les  faibles.
+Autour de l’estrade, la troupe patientait, prête à purifier les lieux avec de
+l’eau parfumée.Le temps me pressait. Il me faudrait plusieurs minutes pour venir à
+bout du système de cordes et de poulies, pour libérer les toiles. Je gagnai
+mon  poste,  démantelai  les  dernières  fixations  puis,  à  l’instant  où  la
+Cathédrale résonnait d’un terrible craquement, réintégrai le puits menant à
+mon observatoire.
+Trois minutes plus tard, les toiles s’affaissaient. Je vis Corvus lever la
+tête. Ses yeux brillaient. L’évêque se trouvait dans la loge, au côté de sa
+fille.  Il  la  repoussa  dans  l’ombre.  Deux  minutes  plus  tard,  les  toiles
+s’abattirent  sur  la  partie  supérieure  de  l’échafaudage  dans  un  fracas
+effroyable. Pour les extrémités de la structure en bois, le poids était trop
+lourd ; l’ensemble s’effondra et les toiles tombèrent en cascade jusqu’au
+sol,  bon  nombre  de  mètres  plus  bas.  L’illumination  se  fit  tout  d’abord
+indécise et bleutée ; peut-être un nuage vagabond la filtrait-il ? Puis un
+éclair de lumière traversa la Cathédrale, plongea mon univers enfumé dans
+la clarté. La splendeur d’un millier de fragments de verre coloré, caché
+pendant des décennies et durement touché par de jeunes vandales, frappa
+aussitôt les niveaux inférieur et supérieur. Le hurlement de la foule faillit
+me déséquilibrer. Effrayé de ce que j’avais provoqué, je courus me cacher
+au niveau inférieur. Il y avait plus que la simple lumière du soleil. Les
+fenêtres des transepts figeaient tous ceux qui les contemplaient comme s’ils
+avaient assisté à la floraison de deux roses, dont l’une eût été plus colorée
+que l’autre.
+L’œil accoutumé à une pénombre orangée, à la fumée, à la brume, à
+l’ombre, ne peut fixer une telle splendeur sans en subir un effet radical. Je
+protégeai mon visage et cherchai une sortie adéquate.
+Mais  les  gens  ne  cessaient  d’affluer.  Tandis  que  la  lumière
+s’intensifiait,  que  les  visages,  de  plus  en  plus  nombreux,  cédaient  au
+phototropisme  et  se  tournaient  vers  la  source  lumineuse,  la  splendeur
+désaxa certaines personnes. De leurs esprits se déversèrent des choses trop
+prodigieuses  pour  être  cataloguées  avec  pertinence.  Cependant,  les
+monstres ainsi libérés n’avaient rien de violent et la plupart des visions
+n’avaient rien de monstrueux.
+Les  parties  supérieure  et  inférieure  de  la  nef  luisaient  de  reflets
+éblouissants,  de  silhouettes  oniriques  et  d’enfants  vêtus  de  falbalas  de
+lumière. Partout, ce n’était que saints et prodiges. Un millier de jeunes gens
+nouvellement  créés  s’installèrent  sur  le  sol  brillant  pour  évoquer  des
+merveilles, des villes orientales et des époques qu’ils avaient jadis connues.Des clowns habillés de feu paradaient sur les étals du marché. Des animaux
+inconnus  dans  la  Cathédrale  faisaient  des  cabrioles  entre  les  masures  et
+prodiguaient  des  conseils  amicaux.  Des  abstractions,  sphères  lumineuses
+cernées de filets d’or et de rubans de soie, chantaient et flottaient autour des
+niveaux les plus élevés. La Cathédrale devenait le vaisseau de tous les rêves
+chatoyants de ses citoyens.
+Peu  à  peu,  quittant  la  nef  inférieure,  des  gens  de  pure  chair
+escaladèrent l’échafaudage pour gagner l’étage supérieur et contempler ce
+qu’ils ne pouvaient voir d’en bas. De ma cachette, je vis la troupe masquée
+de  l’évêque  hisser  sa  litière  le  long  d’un  escalier  étroit.  Constantia  le
+suivait, les yeux clos dans la clarté nouvelle.
+Chacun tentait de se voiler les yeux, mais nul ne parvenait à prolonger
+longtemps cet effort.
+Je pleurais. À demi aveuglé par les larmes, je grimpai un peu plus haut
+encore, observai à mes pieds la foule en effervescence. Je vis Corvus, les
+mains toujours entravées, que la vieille femme emmenait. Constantia le vit
+également ; ils se regardèrent comme des étrangers, puis se prirent par la
+main du mieux qu’ils purent. La jeune fille emprunta un poignard à l’un des
+soldats  de  son  père  et  trancha  les  liens  de  son  amant.  Autour  d’eux
+tourbillonnèrent alors les rêves les plus éblouissants où le blanc immaculé,
+le rouge sang et le vert d’eau se conjuguaient pour visualiser ces enfants
+qu’ils auraient un jour en toute innocence.
+Je leur accordai plusieurs heures pour reprendre leurs sens – et moi, les
+miens. Puis je m’installai sur le podium abandonné par l’évêque et, au-
+dessus des têtes du niveau inférieur, hurlai : « Le temps est venu ! Nous
+devons désormais nous unir ; nous devons nous unir… »
+Ils  commencèrent  par  m’ignorer.  J’étais  assez  éloquent,  mais  leur
+surexcitation était encore trop vive. J’attendis donc encore un peu, repris la
+parole. Des hurlements me réduisirent au silence. Des morceaux de fruits et
+de légumes décrivirent des arcs dans ma direction. On me traita de fou,
+d’avorton, et on me chassa.
+Je me traînai le long des escaliers de pierre, trouvai l’étroite fente et
+m’y faufilai. Ainsi caché, j’enfouis mon bec entre mes pattes, cherchai à
+comprendre pourquoi les choses avaient mal tourné. Il me fallut un temps
+étonnamment long pour admettre que, dans mon cas, c’étaient moins les
+stigmates  de  la  pierre  que  la  laideur  de  ma  conformation  qui  vouait  à
+l’échec mes ambitieuses aspirations.J’avais néanmoins ouvert la voie au Christ de pierre. Il sera sûrement
+capable  de  prendre  sa  place  maintenant,  me  dis-je.  Fort  de  cette
+constatation, je gagnai donc la pièce secrète à la lueur jaune. Là, tout était
+paisible. Je butai d’abord sur le monstre de pierre qui, de ses prunelles gris
+vitreux, me considéra avec méfiance. « Vous revoilà », fit-il. Accablé par sa
+perspicacité,  je  lui  décochai  un  regard  noir  tout  en  acquiesçant,  puis
+demandai à rencontrer le Christ.
+« Il dort.
+— Importantes nouvelles, dis-je.
+— Quoi ?
+— J’apporte de bonnes nouvelles.
+— Confiez-les-moi.
+— Confidentiel. »
+D’un recoin sombre sortit alors le Christ. Il paraissait beaucoup plus
+vieux, cette fois-ci. « Que se passe-t-il ? demanda-t-il.
+— Je Vous ai ouvert la voie. Simon, que l’on nomme aussi Pierre, m’a
+dit que j’étais l’héritier de sa charge, que je devais me présenter à Vous… »
+Le Christ de pierre secoua la tête. « Tu crois que je suis la source de
+toutes les bénédictions ? »
+Dans l’incertitude, j’opinai du chef.
+« Qu’as-tu fait là-bas ?
+— J’ai fait entrer la lumière.
+— Tu me sembles une créature assez sage. Tu as entendu parler de
+Mortdieu.
+— Oui.
+— En ce cas, tu dois savoir qu’il me reste tout juste assez de force
+pour demeurer entier, pour me soigner, mais non pour veiller sur les autres,
+là-bas. » Son geste désignait un point au-delà des murs. « Ma propre source
+s’est tarie », ajouta-t-il avec tristesse. « Je vis sur des réserves, et celles-ci
+sont plutôt limitées.
+—  Il  veut  que  vous  partiez,  que  vous  cessiez  de  nous  importuner,
+expliqua le monstre.
+— Là-bas, ils ont leur lumière désormais, reprit le Christ. Ils vont s’en
+divertir  quelque  temps,  puis  s’en  lasseront  et  reviendront  à  leur  état
+antérieur. Crois-tu pouvoir y trouver ta place ? »
+Je réfléchis un moment, puis secouai la tête. « Non. Je suis trop laid.— Tu es trop laid, et moi trop célèbre. Il me faudrait émerger d’entre
+leurs  rangs,  anonyme,  et  c’est  évidemment  impossible.  Non,  laisse-les
+tranquilles  quelque  temps.  Ils  me  recréeront  ou,  mieux  encore,
+m’oublieront, nous oublieront. Nous n’avons nulle place parmi eux. »
+J’étais abasourdi. Je me laissai choir brutalement sur le sol dallé et, en
+passant, le Christ me tapota la tête. « Regagne donc ta cachette et tâche d’y
+vivre le mieux possible. Notre temps est révolu. »
+Je  me  détournai  pour  partir.  J’atteignais  le  tunnel  quand  Sa  voix
+résonna dans mon dos. « Sais-tu jouer au bridge ? Si oui, trouve-nous un
+quatrième ! »
+Je remontai jusqu’à l’escalier de pierre, passai au travers des murs et le
+long des voûtes au-dessus du théâtre des réjouissances. Non seulement je
+n’allais  pas  devenir  pape  –  bien  que  saint  Pierre  en  personne  m’eût
+désigné ! – mais je ne parvenais même pas à convaincre quelqu’un de plus
+compétent que moi d’assumer cette charge.
+Il  existe,  je  crois,  un  symptôme  de  l’éternel  étudiant  :  quand  son
+intelligence le lâche, il retourne vers son maître.
+Je retournai donc auprès du géant de cuivre. Il était perdu dans ses
+pensées. À ses pieds étaient éparpillés des bouts de papier portant les plans
+détaillés de certaines parties de la Cathédrale. J’attendis patiemment qu’il
+me  remarquât.  Le  menton  dans  la  main,  il  se  tourna  vers  moi  et  me
+dévisagea.
+« Pourquoi tant de tristesse ? »
+Je secouai la tête. Lui seul savait lire les émotions sur mes traits.
+« As-tu appliqué mon conseil avec ceux d’en bas ? J’ai entendu un
+grand remue-ménage.
+— Mea maxima culpa, dis-je.
+— Et…? »
+Lentement, en hésitant, je fis mon rapport, terminai sur le refus du
+Christ  de  pierre.  Le  géant  m’écouta  attentivement  sans  jamais
+m’interrompre. Quand j’eus fini, il se leva, me dominant de sa haute stature
+et, de sa règle, m’indiqua un portail ouvert.
+« Tu vois cela, là-bas ? » demanda-t-il. La règle balayait les forêts au-
+delà  de  l’île  jusqu’au  lointain  horizon  vert.  Une  fois  de  plus,  le  géant
+paraissait perdu dans ses pensées.
+« Jadis, il y avait une ville là où poussent aujourd’hui ces arbres. Les
+artistes  y  venaient  par  milliers  ;  les  putains,  les  philosophes  et  lesuniversitaires  aussi.  Quand  Dieu  mourut,  putains,  philosophes  et
+universitaires ne purent empêcher la trame du monde de se déchirer. Et tu
+voudrais que nous réussissions là où ils ont échoué ? »
+Nous ?  «  Ce  que  l’on  attend  ne  devrait-il  pas  déterminer  que  l’on
+agisse ou non ? » fis-je.
+Le géant éclata de rire et me donna un coup de règle sur la tête. « Peut-
+être  avons-nous  reçu  un  signe  qu’il  nous  faut  apprendre  à  interpréter
+correctement ? »
+Je lui décochai un regard mauvais témoignant de ma perplexité.
+« Peut-être Mortdieu est-il le signe de notre sevrage ? Il faut que nous
+fouillions au plus profond de nous-mêmes, que nous refassions le monde,
+seuls, sans aide. Qu’en penses-tu ? »
+J’étais  trop  fatigué  pour  juger  du  bien-fondé  de  son  discours,  mais
+jamais encore je n’avais vu le géant se tromper. « Soit. Je vous l’accorde. Et
+alors ?
+— Le Christ de pierre veut peut-être nous dire que sa responsabilité
+s’arrête là. Si Dieu nous sèvre de nos vieilles habitudes, comment espérer
+un instant que son fils nous redonnera le téton ?
+— Effectivement… »
+Le visage radieux, il s’accroupit à mes côtés. « Je me suis toujours
+demandé qui viendrait sur le devant de la scène. C’est évident. Pas Lui.
+Alors, petit, quel est le choix suivant ?
+— Moi ? » fis-je d’une voix humble. Le géant me considéra avec un
+rien de pitié.
+« Non, répondit-il quelques minutes plus tard. Je suis le suivant. Nous
+sommes sevrés ! » Il esquissa quelques pas de danse. J’en fus tellement
+surpris  que  le  bec  me  sauta  d’entre  les  pattes.  Je  clignai  des  yeux.  Il
+empoigna mes ailes vestigielles et me souleva. « Tiens-toi droit et dis-m’en
+davantage.
+— À quel sujet ?
+— Raconte-moi tout ce qui se passe en bas, et tout ce que tu sais
+d’autre.
+—  J’essaie  de  comprendre  ce  que  vous  me  dites,  protestai-je  en
+tremblotant.
+— Borné comme la pierre ! » Il se pencha vers moi en souriant. Puis
+son  sourire  s’évanouit  et  il  s’efforça  à  la  sévérité.  «  C’est  une  lourde
+responsabilité. Nous devons désormais refaire le monde par nous-mêmes.Nous devons coordonner nos pensées, nos rêves. Le chaos n’est pas une
+solution. Quelle chance d’être l’architecte d’un univers entier ! » Il brandit
+sa règle vers le plafond. « Bâtir les deux mêmes ! L’anden monde, avec ses
+règles  et  ses  contraintes  strictes,  aura  été  un  terrain  d’expérience.  Mais
+voilà,  nous  dit-on,  que  nous  sommes  prêts  à  tourner  le  dos  au  passé,  à
+avancer vers quelque chose de plus adulte. T’ai-je appris certains principes
+d’architecture  ?  Je  songe  à  l’esthétique.  Le  besoin  d’harmonie,
+d’interaction, d’utilité, de beauté ?
+— Quelques-uns, répondis-je.
+—  Parfait.  Je  ne  pense  pas  qu’il  faille  de  meilleurs  principes  pour
+recréer  l’univers.  Bien  sûr,  il  nous  faudra  procéder  par  expériences
+successives et peut-être certaines flèches de nos églises s’effondreront-elles.
+N’importe.  Désormais,  c’est  pour  nous  que  nous  œuvrons,  pour  notre
+propre gloire et pour la plus grande gloire de Dieu, notre créateur ! N’est-ce
+pas, mon vilain ami ? »
+ 
+Comme  nombre  d’histoires,  la  mienne  doit  commencer  par
+l’infiniment  petit,  l’étroitement  localisé,  pour  gagner  l’infiniment  grand.
+Mais, à l’inverse de la majorité des historiens, je ne dispose pas de ce luxe
+qu’est le temps. En vérité, mon histoire est loin d’être achevée.
+Bientôt, les légions de Viollet-le-Duc entameront leurs campagnes. La
+plupart  ont  reçu  une  éducation  remarquable  :  arrachés  aux  régions
+inférieures, amenés dans les hauteurs, instruits à mon image. Bientôt, nous
+les renverrons sur le terrain, un par un.
+Quant à moi, j’enseigne de temps à autre, écris de temps à autre et
+observe en permanence.
+L’étape suivante sera la plus importante. Je n’ai pas idée de la manière
+dont nous allons procéder.
+Mais, comme le dit le géant : « Il y a longtemps, le toit s’est effondré.
+Aujourd’hui, il nous faut le relever, le consolider, réparer la charpente. » À
+ce point de son discours, il sourit aux élèves. « Pas seulement la réparer. La
+remplacer.  La  charpente,  c’est  nous.  Chair  et  pierre  ont  engendré  une
+matière beaucoup plus solide. »
+Certes, il y aura toujours un balourd pour lever la main et demander :
+« Et si nos bras se fatiguent à force de soutenir les deux ? »
+Notre tâche, vous le voyez, est loin d’être achevée.

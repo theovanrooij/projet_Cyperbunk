@@ -1,0 +1,441 @@
+Le continuum Gernsback
+William Gibson
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Titre original :
+The Gernsback Continuum
+© 1981, by Terry Carr
+Première parution dans Universe 11.Ce récit est le premier que William Gibson a publié à titre professionnel –
+en 1981.
+Dans  les  années  qui  ont  suivi,  Gibson  a  écrit  une  série  d’ouvrages
+importants  où  il  a  su  mêler  avec  brio  atmosphère  et  extrapolation.  Ses
+romans, Neuromancien et Comte Zéro, ainsi que les nouvelles en forme de
+« prolongements » qui s’y rattachent ont valu à l’auteur nombre de louanges
+pour  la  vivacité  de  son  style  narratif,  sa  prose  briquée  et  riche  de
+suggestions,  comme  pour  sa  description  pointue  du  futur.  Ces  textes
+occupent  désormais  une  place  essentielle  dans  la  science-fiction
+contemporaine.
+Mais  tout  a  commencé  avec  cette  nouvelle-ci.  Évocation  aussi
+impertinente que précise de certains égarements du passé, c’est également
+un appel vibrant en faveur d’une nouvelle esthétique S-F des années quatre-
+vingt.Heureusement,  toute  cette  affaire  commence  à  s’effacer,  à  n’être  qu’un
+incident  de  parcours.  Quand  cette  vision  me  revient,  c’est  de  façon
+périphérique  :  simples  fragments  de  ce  chrome  cher  aux  savants  fous.
+Certes, il y a bien eu ce paquebot volant au-dessus de San Francisco la
+semaine dernière, mais il était transparent, à peine visible. Et les bolides à
+gouverne de direction se font de plus en plus rares ; et les autoroutes évitent
+désormais  de  se  déployer  brusquement  en  ces  monstres  à  quatre-vingts
+voies  que  je  dus  emprunter  le  mois  dernier  dans  ma  Toyota  de  louage.
+Enfin, je sais maintenant que rien de tout cela ne me suivra à New York. Ma
+vision se réduit progressivement à une seule longueur d’onde de probabilité.
+Il faut dire que j’ai fait des efforts terribles pour parvenir à ce résultat. La
+télévision m’a énormément aidé.
+Je  crois  que  tout  a  commencé  à  Londres,  dans  cette  simili-taverne
+grecque sur Battersea Park Road, au cours d’un déjeuner aux frais de la
+société de Cohen. Ersatz de repas où il fallut aux serveurs une demi-heure
+pour mettre la main sur un seau à glace pour le vin résiné. Cohen travaille
+pour la maison Barris-Watford qui publie de gros livres brochés comme on
+en  fait  maintenant,  spécialisés  dans  l’histoire  illustrée  des  enseignes  au
+néon, du billard électrique, des jouets à ressorts dans le Japon occupé et
+autres sujets de la même farine. Je m’étais rendu à Londres pour faire une
+série de photos  publicitaires sur des chaussures. Des  Californiennes  aux
+jambes  bronzées  et  chaussées  de  tennis  aux  couleurs  vinyliques  avaient
+ainsi posé pour moi au pied de l’escalator de la station St. John’s Wood et
+sur les quais de Tooting Bec. Une pauvre petite agence ambitieuse avait
+déclaré  que  les  mystères  des  transports  londoniens  feraient  vendre  ces
+chaussures de sport dessus nylon et semelles quadrillées. À eux de décider,
+à moi de mitrailler. Et Cohen, que j’avais vaguement connu dans le temps, à
+New York, m’avait invité à déjeuner la veille de mon départ d’Heathrow. Il
+arriva accompagné d’une jeune femme très élégante, Dialta Downes, qui
+n’avait quasiment pas de menton et était, de toute évidence, une autorité en
+matière  de  pop  art.  Aujourd’hui,  avec  le  recul,  je  l’imagine  volontiers
+entrant aux côtés de Cohen avec au-dessus de sa tête une enseigne au néon
+en train de clignoter en grosses capitales : Bienvenue au royaume de la
+folie.
+Cohen fit les présentations et m’expliqua que Dialta était la grande
+responsable du dernier projet Barris-Watford, une histoire illustrée de ce
+qu’elle  appelait  «  Les  Composantes  Aérodynamiques  du  ModernismeAméricain  ».  Le  titre  provisoire  était  :  Le  Courant  Futuropolis  :  les
+lendemains qui devaient chanter.
+De fait, les Britanniques font une véritable fixation sur les éléments les
+plus baroques de la culture populaire américaine tandis que les Allemands
+idolâtrent bizarrement cow-boys et Indiens et que les Français vouent un
+culte aberrant aux vieux films de Jerry Lewis. Chez Dialta Downes, cette
+obsession  se  traduisait  par  un  intérêt  démesuré  pour  une  expression
+architecturale à laquelle la majorité des Américains est à peine sensible.
+J’eus tout d’abord du mal à comprendre de quoi elle parlait, mais peu à peu
+la lumière se fit dans mon esprit. Je me surpris en train de me souvenir de la
+télévision du dimanche matin dans les années cinquante.
+Il arrivait alors que, faute de mieux, les stations locales projettent de
+vieilles pellicules fatiguées. Assis devant le petit écran avec une tartine de
+beurre  de  cacahuète  et  un  verre  de  lait,  vous  entendiez  un  baryton  de
+Hollywood se bagarrer contre les parasites pour vous annoncer qu’il y avait
+« une voiture volante dans votre avenir ». Du coup, trois ingénieurs de
+Détroit s’activaient autour d’une vieille Nash ailée, que l’on voyait ensuite
+filer  dans  un  grondement  de  tonnerre  sur  une  autoroute  déserte  du
+Michigan. Bien sûr, on ne la voyait jamais décoller, mais elle s’envolait de
+toute évidence vers  l’Eldorado  de Dialta  Downes, patrie  véritable  d’une
+génération de technophiles libérés de leurs inhibitions.
+Dialta Downes parlait de ces témoignages de l’architecture futuriste
+des  années  trente  et  quarante  que  le  passant  des  villes  américaines  ne
+remarque  jamais  :  façades  de  cinéma  conçues  pour  distiller  quelque
+mystérieuse énergie, prisunics bardés d’aluminium, chaises à l’armature en
+tube  chromé  livrées  à  la  poussière  du  hall  des  hôtels  de  passage.  Ces
+éléments, elle les voyait comme autant de constituants d’un univers de rêve
+abandonné à un présent insouciant. Et elle voulait que je les photographie
+pour elle.
+C’est  dans  les  années  trente  que  l’Amérique  avait  vu  naître  ses
+premiers  dessinateurs  industriels.  Jusqu’alors,  un  taille-crayon  avait
+toujours  ressemblé  à  un  taille-crayon  –  avec  son  mécanisme  victorien
+élémentaire, orné parfois d’une petite fioriture. Vint ensuite l’ère du design.
+Le taille-crayon prit de drôles d’allures, comme s’il avait subi le test de la
+soufflerie. Les modifications demeuraient néanmoins très superficielles car
+sous  la  coque  de  chrome  aérodynamique  prévalait  encore  le  vieux
+mécanisme victorien. Logique, puisque la plupart des designers à succès serecrutaient parmi les décorateurs des théâtres de Broadway. Tout n’était que
+décor de théâtre, accessoires sophistiqués élaborés pour jouer à vivre dans
+le futur.
+Devant sa tasse de café, Cohen exhiba une grosse enveloppe pleine de
+photos sur papier glacé. Je vis les statues ailées qui veillent sur le Hoover
+Dam,  énormes  décorations  en  béton  résistant  vaillamment  à  un  ouragan
+imaginaire sur le barrage. Je vis une douzaine de clichés du Johnson’s Wax
+Building de Frank Lloyd Wright qui voisinaient avec de vieilles couvertures
+d’Amazing Stories réalisées par un artiste nommé Frank R. Paul. À n’en pas
+douter, les employés de la Johnson’s devaient avoir l’impression d’évoluer
+dans l’univers utopique de Frank R. Paul. En effet, la réalisation de Wright
+semblait avoir été conçue pour des êtres en toges blanches et sandales de
+plexiglas. J’hésitai cependant devant la représentation d’un impressionnant
+long-courrier à hélices, tout en ailes, pareil à un énorme boomerang dont les
+hublots auraient été placés en des points incongrus. Des flèches indiquaient
+l’emplacement  de  la  grande  salle  de  bal  et  des  deux  courts  de  squash.
+L’esquisse datait de 1936.
+« Ce truc n’aurait jamais pu voler ?… » Je consultai Dialta Downes du
+regard.
+« Oh, non ! Impossible, même avec ses douze hélices géantes ! Mais, à
+1'époque,  on  adorait  ce  genre  de  chose,  vous  comprenez  ?  New  York-
+Londres en moins de deux jours, avec des restaurants de première classe,
+des cabines particulières, des solariums et du jazz le soir… Les designers
+avaient la fibre populiste, voyez-vous ; ils cherchaient à donner au public ce
+qu’il attendait. Et ce qu’il attendait, c’était le futur. »
+J’étais  à  Burbank  depuis  trois  jours,  où  je  m’efforçais  d’insuffler
+quelque personnalité à un rocker terne, lorsque je reçus le paquet de Cohen.
+On peut toujours photographier ce qui n’existe pas, mais c’est très difficile
+et le talent qu’il y faut se monnaie en conséquence. Si je me défends en la
+matière, je ne suis quand même pas le meilleur, et ce malheureux rocker
+mettait à rude épreuve la crédibilité de mon Nikon. Je m’en sortis déprimé
+parce que j’aime faire du bon travail, mais pas complètement car je fis tout
+ce qu’il fallait pour toucher mon chèque, et je décidai de me refaire un
+moral  en acceptant la  mission hautement artistique de la  société Barris-
+Watford. Cohen m’avait adressé quelques livres sur le design des années
+trente, des photos supplémentaires de bâtiments aérodynamiques et une listedes  cinquante  constructions  californiennes  dont  le  style  plaisait  tout
+particulièrement à Dialta Downes.
+En  architecture, la  photo  demande parfois une grande  patience. Tel
+immeuble prend un aspect de cadran solaire lorsqu’il faut attendre qu’un
+détail  sorte  enfin  de  l’ombre,  que  la  structure  d’ensemble  se  révèle  de
+manière opportune. Alors, tout en guettant le bon moment, je m’immergeais
+dans l’Amérique de Dialta Downes. Quand j’isolais certaines usines sur le
+verre  dépoli  de  mon  Hasselblad,  elles  affichaient  une  sorte  de  dignité
+totalitaire qui n’était pas sans évoquer les stades qu’Albert Speer construisit
+pour Hitler. Mais tout le reste demeurait inexorablement minable. Ce n’était
+que  machins  éphémères  sortis  de  l’inconscient  collectif  américain  des
+années trente qui s’efforçaient de survivre en bordure de routes rectilignes
+parfaitement  déprimantes  :  motels  poussiéreux,  magasins  de  gros,  petits
+parcs de voitures d’occasion. Moi, je préférais encore les stations-service.
+C’est à l’apogée de l’ère Dialta Downes que Ming l’impitoyable se vit
+confier  là  conception  des  stations-service  californiennes.  Fidèle  au  style
+architectural de Mongo, sa planète natale, il fit ériger sur toute la côte des
+pistolets  à  rayons  géants  en  stuc  blanc.  Nombre  de  ces  édifices  étaient
+affublés  d’une  tour  centrale  superfétatoire,  elle-même  baguée  d’étranges
+ailettes  de  radiateur  où  se  lisait  la  signature  d’un  certain  style,  le  tout
+donnant  l’impression  de  vouloir  engendrer  de  puissants  sursauts
+d’enthousiasme technologique, si toutefois l’on découvrait le dispositif de
+mise en route. À San José, je réussis à photographier l’un de ces sites une
+heure  avant  que  les  bulldozers  ne  viennent  écrabouiller  cette  vérité
+structurale en plâtre, lattis et béton bon marché.
+« Essayez de voir dans tout ça, m’avait dit Dialta Downes, une espèce
+d’Amérique parallèle : des années quatre-vingt n’ayant jamais existé. Une
+architecture de rêves brisés. »
+Je m’y efforçais donc tout en couvrant au volant de ma Toyota rouge
+les étapes de sa vision socio-architecturale chantournée. Peu à peu, j’en
+venais d’ailleurs à accepter son idée d’une Amérique fantôme, d’usines de
+Coca-cola  semblables  à  des  sous-marins  échoués  et  de  cinémas  de
+cinquièmes exclusivités semblables aux temples de quelque secte disparue
+adoratrice de miroirs bleutés et de géométrie. Et pendant que j’avançais au
+beau milieu de ces ruines secrètes, je m’interrogeais sur les habitants de ce
+futur évanoui : qu’auraient-ils pensé du monde où je vivais ? Les années
+trente rêvaient marbre blanc et chrome satiné, cristal impérissable et bronzepoli, mais les fusées ornant les couvertures des revues de Gernsback étaient
+tombées  sur  Londres,  en  pleine  nuit  et  dans  un  bruit  d’enfer.  Après  la
+guerre, tout le monde eut sa voiture – sans ailes – et les autoroutes promises
+à cet effet, de sorte que le ciel lui-même en vint à s’assombrir, que les gaz
+d’échappement rongèrent le marbre et attaquèrent le cristal miraculeux…
+Et un jour, dans la banlieue de Bolinas, alors que je m’apprêtais à
+photographier  un  modèle  particulièrement  somptueux  de  l’architecture
+martiale  de  Ming,  je  pénétrai  une  fine  membrane,  une  membrane  de
+probabilité…
+Tout doucement, je passai de l’Autre Côté…
+Et levai la tête pour voir une énorme chose dotée de douze moteurs,
+une chose semblable à un boomerang boursouflé, tout en ailes, qui filait
+vers l’est avec une grâce éléphantesque, à si basse altitude que j’aurais pu
+compter les rivets ponctuant sa carapace d’argent terne et entendre – peut-
+être – l’écho d’une musique de jazz.
+ 
+Je soumis ça à Kihn.
+Mervyn Kihn, journaliste indépendant, spécialiste des ptérodactyles du
+Texas, des bouseux qui voyaient des Ovnis partout, des monstres du loch
+Ness  non  répertoriés  et  des  dix  premiers  facteurs  de  paranoïa  dans  les
+franges les plus atteintes de la mentalité populaire américaine.
+« C’est bien », fit Kihn en essuyant ses lunettes polaroïdes jaunes à
+l’ourlet  de sa chemise hawaiienne. « Mais le  mental n’a rien à voir  là-
+dedans ; il y manque la petite note de vérité.
+— Pourtant, je l’ai vu, Mervyn, de mes yeux vu. »
+Nous  étions  assis  au  bord  d’une  piscine,  sous  le  brillant  soleil  de
+l’Arizona.  Mervyn  était  venu  à  Tucson  pour  y  rencontrer  un  groupe  de
+fonctionnaires  retraités,  de  Las  Vegas,  dont  la  cheftaine  recevait  des
+messages  des  Autres  sur  son  four  à  micro-ondes.  Quant  à  moi,  j’avais
+conduit toute la nuit et commençais à en ressentir les effets.
+« Bien sûr, c’est évident que tu as vu ça. Mais tu as lu mes articles ? Tu
+connais ma théorie sur les Ovnis ? C’est d’une simplicité évangélique : les
+gens… » Il s’interrompit un instant, le temps de rajuster ses lunettes sur son
+interminable nez en bec d’aigle et fixa sur moi son plus beau regard de
+reptile. «… voient… des choses. Ils voient ces choses. Il n’y a rien, mais ils
+les voient quand même. Sans doute ont-ils besoin de ces visions ! Tu as lu
+Jung, tu connais la musique… Dans ton cas, c’est particulièrement clair. Tupensais, m’as-tu dit, à cette architecture loufoque, tu fantasmais… Écoute,
+tu as bien tâté de la drogue, non ? Tu connais beaucoup de Californiens qui
+aient  traversé  les  années  soixante  sans  avoir  de  bonnes  vieilles
+hallucinations ? Et ces nuits où tu découvrais que les techniciens de Disney
+au grand complet avaient été utilisés pour tisser des hologrammes animés
+d’hiéroglyphes égyptiens dans la trame de tes jeans, et les fois où…
+— Mais ça n’a rien à voir…
+— Bien entendu. Rien à voir du tout. Tes visions à toi s’inscrivaient
+dans « la réalité la plus absolue », n’est-ce pas ? Tout est normal, et puis
+voici que surgit le monstre, le mandala, le cigare au néon. Et en ce qui te
+concerne un avion géant à la Tom Swift4. Mais ça arrive tout le temps. Tu
+n’es même pas fou. Tu le sais, non ? » Il extirpa une bière de la glacière
+bosselée posée à côté de sa chaise longue. « La semaine dernière, je me
+trouvais en Virginie. Dans le comté de Grayson. J’interviewais une fille de
+seize ans qui avait été agressée par une teut d’os.
+— Quoi ?
+— Une tête d’ours. La tête d’un ours décapité. Cette teut d’os flottait
+dans  l’air  sur  sa  petite  soucoupe  volante  personnelle  et  ressemblait  aux
+enjoliveurs  de  la  vieille  Cadillac  du  cousin  Wayne.  Ses  yeux  rouges
+luisaient  comme  deux  bouts  de  cigare  incandescents  et  des  antennes
+télescopiques chromées pointaient derrière ses oreilles. »
+Sur ce, Mervyn émit un rot sonore.
+« Et cette chose l’a agressée ? Comment cela ?
+— Ne me dis pas que tu veux savoir ! De toute évidence, tu es de
+nature impressionnable. C’était froid… » Il reprit son mauvais accent du
+Sud.  «  Et  métallique.  Ça  faisait  des  bruits  électroniques.  Voilà  le  truc
+important,  en  droite  ligne  de  l’inconscient  collectif,  mon  vieux.  Cette
+gamine  est  une  sorcière.  Si  elle  n’avait  pas  grandi  sous  les  auspices  de
+L’Homme qui valait trois milliards et de toutes les rediffusions de Star Trek,
+elle aurait vu le diable. Une branchée du tube cathodique. Et elle est sûre
+que ça lui est arrivé. Quant à moi, je suis sorti dix minutes avant que les
+gros bras spécialisés dans les Ovnis ne surgissent avec leur détecteur de
+mensonges. »
+Je dus lui paraître peiné car il reposa sa bière avec précaution à côté de
+la glacière et se redressa.
+« Si tu désires une explication plus chic, je peux aussi te dire que tu as
+vu un fantôme sémiotique. Prends ces histoires de contactés, par exemple.Eh  bien,  elles  s’ancrent  toutes  dans  une  espèce  d’imagerie  de  science-
+fiction qui baigne notre culture. Je t’assure que je pourrais accepter ces
+extraterrestres s’ils n’avaient pas l’air de sortir des bandes dessinées des
+années cinquante. Ce sont des fantômes sémiotiques, des rescapés d’une
+imagerie culturelle enfouie au plus profond de l’inconscient qui ont acquis
+une existence propre, à la façon des véhicules spatiaux de Jules Verne que
+les vieux fermiers du Kansas ne manquaient jamais d’apercevoir. Et toi, tu
+as vu un autre type de fantôme, voilà tout. Cet avion appartenait autrefois à
+l’inconscient collectif et tu as flashé là-dessus. L’essentiel, c’est de ne pas
+t’inquiéter à ce sujet. »
+Pourtant, je m’inquiétais. Et sérieusement.
+Kihn peigna ses rares cheveux blonds et s’en fut écouter ce que les
+Autres avaient pu raconter sur les ondes radar dernièrement. Moi, je tirai les
+rideaux de ma chambre et m’allongeai dans l’obscurité climatisée afin de
+m’inquiéter à loisir. À mon réveil, j’étais toujours aussi inquiet. Kihn avait
+laissé un mot sur ma porte. Il sautait dans un charter en direction du nord du
+pays pour vérifier une rumeur concernant des mutilations infligées à du
+bétail (des « meuhtilés », disait-il ; c’était là une autre de ses spécialités
+journalistiques).
+Je me restaurai, pris une douche, avalai le restant d’un anorexigène qui
+traînait  au  fond  de  ma  trousse  de  toilette  depuis  trois  bonnes  années  et
+décidai de regagner Los Angeles.
+Sous l’effet du cachet, je ne voyais pas au-delà de la trouée lumineuse
+des phares de la Toyota. Le corps n’a qu’à conduire, me dis-je. L’esprit
+veille.  Il  veillait  à  rester  loin  de  cette  étrange  devanture  périphérique
+d’amphétamines et de fatigue, de cette végétation lumineuse et spectrale qui
+surgit au coin du troisième œil durant les longs trajets de nuit sur autoroute.
+Malheureusement, l’esprit n’en fait jamais qu’à sa tête et l’opinion de Kihn
+sur ce que j’appelais déjà ma « vision » ne cessait de tourner dans mon
+cerveau  en  une  orbite  serrée,  à  l’ellipse  bancale.  Fantômes  sémiotiques.
+Fragments du Rêve collectif emportés dans l’air soulevé par mon passage.
+Curieusement, cette réaction en boucle aiguisa l’effet de l’anorexigène, et le
+défilement de la végétation des talus afficha les couleurs des images par
+infrarouges des satellites, lambeaux incandescents éparpillés dans le sillage
+de la Toyota.
+Je  m’arrêtai  alors  et  une  demi-douzaine  de  boîtes  de  bière  en
+aluminium  me  souhaitèrent  bonne  nuit  au  moment  où  j’éteignais  leslumières.  Je  me  demandai  l’heure  qu’il  pouvait  bien  être  à  Londres  et
+essayai d’imaginer Dialta Downes en train de prendre son petit déjeuner
+dans son appartement de Hampstead, entourée de figurines chromées aux
+formes aérodynamiques et d’ouvrages sur la culture américaine.
+Aux États-Unis, les nuits dans le désert sont incroyables ; la lune y est
+plus proche. J’en profitai pour l’observer et parvins à la conclusion que
+Kihn avait raison. L’essentiel était de ne pas s’inquiéter. Partout dans le
+pays, chaque jour, des gens plus normaux que je n’avais jamais ambitionné
+de l’être voyaient des oiseaux géants, des hommes-gorilles, des raffineries
+de pétrole volantes. C’étaient eux qui jusitifiaient l’activité et les revenus de
+Kihn.  Pourquoi  me  laisser  troubler  par  un  bref  aperçu  de  l’imagination
+populaire  des  années  trente  égaré  au-dessus  de  Bolinas  ?  Je  décidai  de
+dormir sans m’inquiéter d’autre chose que des serpents à sonnettes et des
+hippies  cannibales,  en  sécurité  parmi  les  détritus  bienveillants  de  mon
+continuum  familier.  Au  matin,  je  pousserais  jusqu’à  Nogales  pour  y
+photographier  les  vieux  bordels.  Il  y  avait  des  années  que  j’y  songeais.
+Cette fois, l’anorexigène avait cessé de faire effet.
+ 
+La lumière me réveilla, puis les voix.
+La lumière provenait de quelque part derrière moi et jetait des ombres
+mouvantes  dans  la  voiture.  Les  voix  calmes,  un  peu  étouffées,  qui  se
+répondaient, étaient celles d’un homme et d’une femme.
+J’avais la nuque raide, les yeux ensablés et des fourmis dans la jambe
+qui était appuyée contre le volant. Je cherchai mes lunettes dans la poche de
+ma chemise, finis par les dénicher.
+Je regardai par-dessus mon épaule et c’est alors que je vis la ville.
+Les  ouvrages  sur  le  design  des  années  trente  se  trouvaient  dans  le
+coffre de la Toyota. L’un d’eux renfermait des croquis d’une ville idéale
+inspirée, malgré des structures systématiquement équarries, de Metropolis
+et  de  La  Vie  future,  et  qui  se  dressait,  à  travers  de  parfaits  nuages
+d’architecte, jusqu’à des quais pour zeppelins et de folles envolées de néon.
+Cette ville était une réplique miniature de celle qui s’élevait derrière moi.
+Des tours en forme de pyramides tronquées se superposaient comme autant
+d’étages d’une ziggourat étincelante menant au temple d’or central bagué
+des fameuses ailettes de radiateur caractéristiques des stations-service de
+Mongo.  On  aurait  pu  dissimuler  l’Empire  State  Building  dans  le  plus
+modeste  de  ces  édifices  reliés  entre  eux  par  des  routes  de  cristal  surlesquelles circulaient des formes lisses et argentées comme des gouttes de
+mercure.  Dans  les  airs,  une  armada  de  vaisseaux  :  paquebots  volants,
+minuscules flèches d’argent (dont l’une, parfois, quittait un pont aérien pour
+s’en aller gracieusement rejoindre le ballet), dirigeables d’un kilomètre de
+long, vagues libellules en suspension dans le ciel qui n’étaient autres que
+des autogires…
+Je me retournai, fermai les yeux. Quand je les rouvris, je m’obligeai à
+les poser sur le compteur kilométrique, la poussière blanche sur le plastique
+noir du tableau de bord, le cendrier plein.
+« Psychose créée par les amphétamines », dis-je à voix haute.
+Le tableau de bord était toujours là, ainsi que la poussière, les mégots
+écrasés. Alors, avec d’infinies précautions, sans bouger la tête, j’allumai
+mes phares.
+Et les vis.
+Ils  étaient  blonds.  Ils  se  tenaient  debout  à  côté  de  leur  voiture,  un
+avocat d’aluminium surmonté en son milieu d’une gouverne de direction et
+doté de roues noires et lisses comme celles d’un jouet d’enfant. Lui avait le
+bras passé autour de la taille de sa compagne et tendait la main vers la ville.
+Tous  deux  étaient  habillés  de  blanc  :  vêtements  amples,  jambes  nues,
+chaussures d’été immaculées. Ni l’un ni l’autre ne semblait avoir remarqué
+la  lumière  de  mes  phares.  L’homme  disait  quelque  chose  de  sage  et  de
+solide que la femme approuvait de la tête, et soudain je fus pris de peur, une
+peur  totalement  différente  de  ce  que  j’avais  connu  jusqu’alors.  Il  ne
+s’agissait pas d’un problème de santé mentale. Je savais confusément que la
+cité derrière moi était Tucson – une Tucson de rêve jaillie du désir collectif
+d’une époque. Et tout cela était réel, totalement réel. Mais ce couple en face
+de moi vivait là-dedans. Et il m’effrayait.
+Ces  deux  êtres  étaient  les  enfants  des  «  années  quatre-vingt
+mythiques » de Dialta Downes, les Héritiers du Rêve. Blancs, blonds, ils
+devaient avoir les yeux bleus. C’étaient des Américains. Dialta avait affirmé
+que  le  futur  avait  commencé  par  toucher  l’Amérique,  mais  qu’il  l’avait
+finalement  désertée.  En  tout  cas,  pas  ici,  au  cœur  du  Rêve.  Ici,  le
+phénomène  avait  poursuivi  sa  course  selon  une  logique  onirique  qui
+ignorait  tout  de  la  pollution,  des  limites  inexorables  des  réserves
+énergétiques,  des  guerres  à  l’étranger  susceptibles  d’êtres  perdues.  Ces
+deux-là étaient heureux, comblés, sûrs d’eux-mêmes et de leur univers. Et
+dans le Rêve, cet univers leur appartenait.Derrière moi, la cité illuminée : des projecteurs balayaient le ciel rien
+que pour le plaisir. J’imaginais tous ces gens se pressant sur les places de
+marbre blanc, dans l’ordre et l’allégresse, les yeux brillants d’enthousiasme
+pour leurs avenues baignées de lumière et leurs voitures d’argent.
+Autant  d’éléments  qui  rappelaient  le  sinistre  ascendant  de  la
+propagande des jeunesses hitlériennes.
+Je mis la Toyota en route et avançai lentement jusqu’à me trouver à
+moins d’un mètre des jeunes gens. Ils ne m’avaient toujours pas remarqué.
+Je baissai ma vitre et écoutai l’homme. Ses paroles, claironnantes, sonnaient
+aussi  creux  que  les  boniments  de  quelque  brochure  de  chambre  de
+commerce et je savais qu’il y croyait dur comme fer.
+J’entendis la femme déclarer : « John, nous avons oublié de prendre
+nos pilalimentaires. »
+Dans un déclic, elle fit sauter deux gaufrettes brillantes d’un truc à sa
+ceinture et en tendit une à son compagnon.
+Je réintégrai alors l’autoroute et pris la direction de Los Angeles en
+grimaçant et en secouant la tête.
+J’appelai Kihn d’une station-service, une nouvelle, d’un vilain style
+hispanico-moderne. Il était rentré de son expédition et, apparemment, mon
+coup de téléphone ne le dérangeait pas.
+« Oui, c’est une histoire bizarre. As-tu essayé de prendre des photos ?
+De toute façon, ça n’aurait rien donné, mais, justement, c’est ce qui ajoute
+un frisson 5  intéressant  à  ton  récit,  de  ne  pas  avoir  eu  le  réflexe  d’en
+prendre… »
+Mais que devais-je faire ?
+« Regarde la télé, surtout les jeux et les feuilletons débiles. Va voir des
+films pornos. Tu connais Le Motel des amours nazies ? Tu peux l’avoir sur
+la chaîne câblée. Absolument atroce. Exactement ce qu’il te faut. »
+Mais qu’est-ce qu’il racontait ?
+« Arrête de brailler et écoute-moi. Je vais te confier un truc de pro :
+rien  de  tel  que  les  émissions  lamentables  pour  exorciser  tes  fantômes
+sémiotiques.  Si  elles  peuvent  me  libérer  des  obsédés  de  la  soucoupe
+volante, elles pourront te libérer de tes visions Art déco futuristes. Essaie.
+Qu’est-ce que tu as à perdre ? »
+Puis il me pria de l’excuser. Il avait un rendez-vous matinal avec les
+Elect.
+« Les quoi ? »« Les vioques de Las Vegas, Ceux du four à micro-ondes. »
+J’envisageai alors d’appeler Cohen à Londres en P.C.V., pour lui dire
+que son photographe démissionnait pour cause de séjour prolongé dans la
+quatrième dimension. En fin de compte, je m’en remis à un distributeur
+automatique qui m’asséna un imbuvable café noir et sautai dans ma Toyota
+afin de regagner Los Angeles.
+C’était une mauvaise idée. Pourtant, je passai deux semaines à Los
+Angeles. J’étais dans le royaume de Dialta Downes ; trop de ce fameux
+Rêve dans le coin, et trop de fragments de ce Rêve qui n’attendaient que le
+moment  de  me  piéger.  Je  manquai  démolir  la  voiture  sur  une  bretelle
+d’autoroute près de Disneyland quand la chaussée, tel un pliage japonais, se
+déploya devant mes yeux en une douzaine de voies envahies de larmes
+chromées surmontées d’une gouverne de direction. Pire, Hollywood était
+plein de gens ressemblant au couple rencontré en Arizona. Je recourus aux
+services  d’un  réalisateur  italien  qui,  en  attendant  des  jours  meilleurs,
+développait des photos et aménageait des abords de piscine pour gagner sa
+vie. Il se chargea des négatifs que j’avais accumulés pendant ma mission
+pour Dialta Downes. Je n’avais nulle envie de m’en occuper moi-même,
+mais cela ne parut pas gêner Leonardo. Lorsqu’il eut terminé, je vérifiai les
+clichés comme on bat un jeu de cartes et les expédiai par avion à Londres.
+Puis je pris un taxi jusqu’au cinéma où l’on donnait Le Motel des amours
+nazies et gardai les yeux fermés durant tout le trajet.
+Une semaine plus tard, on me fit suivre à San Francisco le télégramme
+de félicitations de Cohen. Dialta avait adoré mon travail. Quant à lui, il
+admirait  la  manière  dont  «  j’avais  pigé  le  truc  »  et  espérait  que  nous
+pourrions collaborer à nouveau dans un avenir proche. L’après-midi même,
+je repérai une aile volante au-dessus de Castro Street, mais elle paraissait
+très ténue, à demi réelle. Je me précipitai vers le kiosque à journaux le plus
+proche et ramassai tout ce que je pus trouver sur la crise du pétrole et les
+dangers de l’énergie nucléaire. Je venais tout juste de décider d’acheter mon
+billet d’avion pour New York.
+« On vit dans un drôle de monde, hein ? » Le vendeur était un Noir
+malingre, les dents abîmées, portant manifestement perruque. J’acquiesçai,
+farfouillai dans les poches de mon jean à la recherche d’un peu de monnaie.
+J’avais  hâte  de  gagner  un  parc  et  de  m’installer  sur  un  banc  pour
+m’abandonner  à  la  dure  évidence  de  la  quasi-dystopie  humaine  dans
+laquelle nous évoluons. « Mais ça pourrait être pire, hein ?— C’est vrai, dis-je. Ou pire encore, ça pourrait être parfait. »
+Il me suivit du regard tandis que je m’éloignai, chargé de mon petit
+paquet de catastrophes concentrées.
+ 

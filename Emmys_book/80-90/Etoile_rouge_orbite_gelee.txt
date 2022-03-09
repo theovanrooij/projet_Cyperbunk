@@ -1,0 +1,795 @@
+Étoile rouge, orbite gelée
+BRUCE STERLING
+ET
+WILLIAM GIBSON
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Titre original :
+Red Star, Winter Orbit
+© 1983, by Omni Publications International, Ltd.
+Première parution dans Omni, septembre 1983.
+ Les nouvelles écrites en collaboration constituent une tradition en science-
+fiction,  mais  c’est  une  pratique  particulièrement  fréquente  au  sein  de  la
+tendance cyberpunk dans la mesure où les auteurs, travaillant déjà ensemble
+au  niveau  conceptuel  et  critique,  en  sont  venus  logiquement  à  l’étape
+suivante  :  la  création  en  commun.  D’une  certaine  façon,  en  combinant
+diverses  voix,  l’écriture  en  collaboration  permet  au  Mouvement  de
+s’exprimer comme une seule entité.
+Cette anthologie s’achève sur deux collaborations. Le récit suivant, qui date
+de 1983, est à ce jour la seule œuvre réalisée conjointement par William
+Gibson et Bruce Sterling – considérés comme deux personnages clés de la
+S-F cyberpunk. « Étoile rouge, orbite gelée » illustre le caractère global de
+la vision cyberpunk comme son amour du détail et de la documentation
+minutieuse.
+William  Gibson  a  écrit  «  Le  continuum  Gernsback  »,  qui  ouvre  cette
+anthologie.
+Le premier roman de Bruce Sterling a été publié en 1977. Son œuvre, soit
+trois romans et une vingtaine de nouvelles, recouvre une grande partie du
+champ de la S-F, de la satire comique à la fantaisie historique. Peut-être
+Bruce Sterling est-il surtout connu pour son cycle des « Formationnistes »,
+qui comprend le roman La Schismatrice, et pour un sens de l’humour qui le
+pousse parfois à parler de lui-même à la troisième personne.
+Il vit à Austin, Texas.Prisonnier de son harnais, le colonel Korolev s’agita doucement ; il rêvait
+d’hiver, de pesanteur. Redevenu jeune cadet, il fouettait son cheval à travers
+les plaines automnales du Kazakhstan pour le précipiter dans les étendues
+arides de mars embrasées par le soleil couchant.
+Il y a quelque chose qui cloche, songea-t-il…
+Et il s’éveilla—dans le musée du Triomphe spatial soviétique
+— pour entendre les gémissements de Romanenko et de l’épouse de
+l’homme  du  K.G.B.  Les  voilà  qui  recommençaient,  derrière  l’écran  à
+l’extrémité arrière du Saliout – et les sangles de sécurité de grincer, et la
+coque rembourrée d’émettre une succession régulière de bruits mats. Sabots
+dans la neige.
+Après  s’être  libéré  du  harnais,  Korolev  se  propulsa  d’un  bond
+savamment  contrôlé  jusqu’au  cabinet  de  toilette.  Il  s’extirpa  de  sa
+combinaison  élimée,  referma  la  cuvette  autour  de  ses  reins  et  essuya  la
+vapeur  condensée  qui  s’était  déposée  sur  le  miroir  en  acier.  Durant  son
+sommeil,  sa  main  arthritique  avait  encore  enflé  ;  du  fait  de  la  perte  de
+calcium,  son  poignet  était  désormais  fin  comme  un  os  d’oiseau.  Vingt
+années s’étaient écoulées depuis sa dernière expérience de la pesanteur. Il
+avait vieilli en orbite.
+Il se rasa avec un rasoir aspirant. Autre héritage de l’explosion qui
+l’avait rendu infirme, un patchwork de veines éclatées tachait sa joue et sa
+tempe gauche.
+Quand il sortit du cabinet, les amants adultères avaient mis un terme à
+leurs ébats. Romanenko  se rhabillait.  Valentina, l’épouse du responsable
+politique, portait une combinaison brun sombre aux manches arrachées ; ses
+bras blancs luisaient de la sueur de leurs amours. Ses cheveux blond cendré
+ondoyaient sous la brise d’un ventilateur. Ses yeux du bleu le plus pur des
+bleuets,  un  peu  trop  rapprochés,  avaient  une  expression  mi-gênée,  mi-
+conspiratrice. « Regardez ce que nous vous avons apporté, colonel. »
+Elle lui tendit une de ces mignonnettes de cognac distribuées par les
+compagnies aériennes.
+Sidéré, Korolev cilla devant le logo d’Air France gravé sur le bouchon
+de plastique.
+« Elle est arrivée par le dernier Soyouz. À l’intérieur d’un concombre,
+m’a dit mon mari. » Elle pouffa. « Il me l’a donnée.
+—  Nous  avons  décidé  qu’elle  vous  revenait,  colonel  »,  déclara
+Romanenko avec un large sourire. « Après tout, nous aurons peut-être unepermission très prochainement. » Il jeta à la dérobée un regard embarrassé
+sur les jambes desséchées, les pieds pâles et ballants de Korolev, qui fit
+mine de ne s’apercevoir de rien.
+Le colonel ouvrit la bouteille dont le riche arôme lui fit soudain monter
+le sang aux joues. Il la porta précautionneusement à ses lèvres et aspira
+quelques  millilitres  de  cognac.  Brûlure  semblable  à  celle  de  l’acide.
+« Seigneur ! s’écria-t-il. Cela fait des années. Je vais être paf ! » Les yeux
+pleins de larmes, il éclata de rire.
+«  Si  j’en  crois  mon  père,  vous  buviez  comme  un  héros,  autrefois,
+colonel.
+—  Oui  »,  fit  Korolev  en  reprenant  une  gorgée.  «  C’est  vrai.  »  Le
+cognac  se  répandait  en  lui  comme  de  l’or  liquide.  Il  n’aimait  pas
+Romanenko. Tout comme il n’avait jamais apprécié le père, un membre du
+Parti,  un  profiteur,  installé  depuis  longtemps  dans  des  tournées  de
+conférences,  datcha  sur  la  mer  noire,  alcools  américains,  vêtements
+français,  chaussures  italiennes…  Le  fils  avait  l’allure  du  père,  le  même
+regard gris clair totalement dénué de doutes.
+L’alcool se répandait dans le sang appauvri de Korolev. « Vous êtes
+trop généreux », dit-il. D’un petit coup de pied, il se propulsa en douceur
+jusqu’à  sa  console.  «  Vous  devriez  prendre  quelques  samizdata.  Des
+émissions américaines par câble que l’on vient d’intercepter. Plutôt salé !
+Pour  un  vieillard  dans  mon  genre,  c’est  du  gaspillage.  »  Il  inséra  une
+cassette vierge et lança la machine.
+« Je la donnerai aux canonniers », décréta Romanenko avec un sourire.
+«  Ils  pourront  la  faire  passer  sur  l’écran  de  leurs  détecteurs  dans  la
+canonnière.  »  On  avait  toujours  appelé  ainsi  la  station  d’émission  de
+faisceaux de particules. Les soldats qui y étaient préposés se montraient très
+friands de ce genre d’enregistrement. Korolev prépara une seconde copie à
+l’intention de Valentina.
+« C’est cochon ? » Elle paraissait inquiète et intriguée. « Pourrons-
+nous revenir, colonel ? Mardi à zéro heure ? »
+Korolev lui sourit. Avant d’être sélectionnée pour l’espace, elle avait
+travaillé  en  usine.  Sa  beauté  en  faisait  un  instrument  de  propagande
+efficace,  un  modèle  pour  le  prolétariat.  Le  cognac  qui  courait  dans  ses
+veines aidant, Korolev la prenait en pitié, se voyait dans l’impossibilité de
+lui refuser un peu de bonheur. « Un rendez-vous dans le musée à minuit,
+Valentina ? Quel romantisme ! »Elle  l’embrassa  sur  la  joue,  vacilla  sous  l’effet  de  l’apesanteur.
+« Merci, mon colonel.
+— Colonel, vous êtes un vrai prince », ajouta Romanenko en expédiant
+sur  la  fragile  épaule  de  Korolev  une  tape  aussi  légère  que  possible.
+D’innombrables heures passées à l’exerciseur lui avaient donné des muscles
+de forgeron.
+Korolev  observa  les  amants  se  diriger  vers  la  sphère  centrale
+d’arrimage,  point  de  jonction  de  trois  Saliouts  vieillissants  et  de  deux
+couloirs.  Romanenko  prit  le  couloir  «  nord  »  menant  à  la  canonnière  ;
+Valentina  s’engagea  dans  la  direction  opposée  vers  une  autre  sphère  de
+jonction et le Saliout où dormait son mari.
+Il y avait cinq sphères d’arrimage à Kosmograd, chacune dotée de trois
+Saliouts amarrés. À l’autre bout du complexe se trouvaient les installations
+militaires  et  les  lanceurs  de  satellites.  La  station,  riche  de  mille  bruits
+divers, évoquait l’atmosphère d’un métro, distillait l’âpre odeur de métal
+humide d’un cargo.
+Korolev tâta à nouveau de la bouteille. Elle était maintenant à moitié
+vide. Il la cacha dans l’un des objets exposés à l’intérieur du musée, un
+Hasselblad de la NASA récupéré sur le site d’un atterrissage Apollo. Korolev
+n’avait pas touché un verre d’alcool depuis sa dernière permission, juste
+avant l’explosion, et sa tête flottait dans un courant agréable et douloureux
+de nostalgie alcoolisée.
+Il  revint  vers  sa  console  et  accéda  à  une  zone  mémoire  d’où  les
+discours d’Alexis Kossyguine avaient été discrètement effacés pour faire
+place  à  sa  collection  personnelle  de  samizdata.  Il  avait  enregistré  des
+groupes  britanniques  sur  une  radio  ouest-allemande,  du  keavy  metal  du
+pacte  de  Varsovie,  des  importations  américaines  dénichées  au  marché
+noir… Il ajusta ses écouteurs et pianota sur son clavier pour envoyer le
+spécialiste du reggae tchèque, Brygada Cryzis.
+Après tant d’années, il n’entendait quasiment plus la musique, mais
+des  images  lui  revenaient  avec  une  acuité  poignante.  Dans  les  années
+quatre-vingt,  la  situation  de  son  père  le  plaçant  à  l’abri  de  la  police
+moscovite,  il  avait  fait  partie  des  enfants  à  cheveux  longs  de  l’élite
+soviétique. Il gardait le souvenir de l’écho des clameurs diffusées par haut-
+parleurs dans la pénombre chaude d’un club en sous-sol, de la foule, de cet
+échiquier  ombreux  de  denim  et  de  tignasses  décolorées.  Il  gardait  le
+souvenir des lèvres d’une fille de diplomate américain assise sur le siègearrière  de  la  Lincoln  noire  de  son  père.  Des  noms,  des  visages  le
+submergeaient, poussés par la chaude brume du cognac. Nina, la jeune Est-
+Allemande  qui  lui avait  montré  ses traductions  polycopiées de journaux
+dissidents polonais…
+Jusqu’au soir où elle ne s’était pas montrée au bar. Murmures où il
+était question de parasitisme, d’activités antisoviétiques, de la menace des
+horreurs chimiques de la psikushka…
+Korolev  céda  au  tremblement.  Il  passa  une  main  sur  son  visage,
+s’aperçut qu’il était trempé de sueur. Il ôta ses écouteurs.
+Cinquante ans avaient  passé…  et  pourtant  il éprouvait  soudain une
+peur intense. Il ne se rappelait pas avoir ressenti pareille terreur, pas même
+lors de l’explosion qui lui avait brisé la hanche. Il tremblait violemment.
+Les lumières. Les lumières à l’intérieur du Saliout étaient trop vives, mais il
+ne voulait pas toucher les interrupteurs. Geste simple qu’il accomplissait
+régulièrement,  et  cependant…  les  interrupteurs  et  leurs  câbles  isolés  lui
+paraissaient  dangereux.  Troublé,  confus,  il  regarda  fixement  un  modèle
+réduit de la jeep lunaire Lunokhod. Avec ses roues de velcro accrochées au
+mur  incurvé,  il  paraissait  prêt  à  bondir,  tel  un  être  sensible,  figé  dans
+l’équilibre  de  l’attente.  Les  yeux  des  pionniers  de  l’espace  soviétiques
+fixaient avec mépris ceux de Korolev.
+Le  cognac.  Toutes  ces  années  en  apesanteur  avaient  faussé  son
+métabolisme. Il n’était plus l’homme qu’il avait été. Mais il allait s’efforcer
+de rester calme, de surmonter les effets de l’alcool. S’il vomissait, tout le
+monde se gausserait de lui à coup sûr…
+Quelqu’un frappa à la porte d’entrée du musée, et il retint son souffle.
+Nikita le Plombier, premier bricoleur de Kosmograd, exécuta, à partir du
+sas, un plongeon au ralenti parfaitement maîtrisé. Le jeune ingénieur civil
+semblait furieux. Korolev se troubla. « Vous êtes bien matinal, Plombier »,
+dit-il en cherchant désespérément à afficher une expression normale.
+« Une fuite de rien du tout sur Delta Trois. » Le Plombier fronça les
+sourcils. « Vous comprenez le japonais ? » Il sortit une cassette de l’une des
+innombrables poches qui distendaient son gilet de travail maculé et l’agita
+sous le nez de Korolev. Il portait un Levi’s soigneusement repassé et des
+Adidas éculées. « Nous avons eu accès à ce document dans la nuit. »
+Korolev  se  mit  à  trembler  comme  si  la  cassette  eût  été  une  arme.
+« Non, non, pas le japonais. » L’humilité qu’il y avait dans sa voix le fitsursauter.  «  Seulement  l’anglais  et  le  polonais.  »  Il  se  sentit  rougir.  Le
+Plombier était un ami ; il le connaissait, avait confiance en lui, mais…
+« Ça va bien, colonel ? » Le Plombier chargea la bande et, d’une main
+adroite et calleuse, appela un programme-lexique. « On jurerait que vous
+avez avalé une guêpe. Je voudrais que vous écoutiez ceci. »
+Mal à l’aise, Korolev regarda défiler les images d’une publicité pour
+des gants de base-ball. Les sous-titres en caractères cyrilliques défilaient à
+toute allure sur le moniteur tandis qu’une voix off japonaise faisait entendre
+son cliquetis dément. Une seconde publicité illumina l’écran : vêtue d’une
+robe du soir noire, une fille extraordinairement belle pilotait, sous un soleil
+éblouissant, un U.L.M. français qui s’élevait au-dessus de la Grande Muraille
+de Chine.
+« Les informations suivent », dit le Plombier en se rongeant un petit
+filet de peau à la base d’un ongle.
+Dévoré d’inquiétude, Korolev loucha sur la traduction qui glissait sur
+le visage du présentateur japonais.
+SELON UN GROUPE DE PACIFISTES AMÉRICAINS… DES PRÉPARATIFS SUR LE
+COSMODROME  DE  BAIKONOUR…  INDIQUERAIENT  QUE  LES  SOVIÉTIQUES
+SERAIENT ENFIN PRÊTS… À DÉMANTELER LEUR STATION MILITAIRE SPATIALE
+COMIC CITY…
+« Cosmic, marmonna le Plombier. Il y a une coquille dans le lexique. »
+CONSTRUITE AU DÉBUT DU SIÈCLE POUR SERVIR DE TÊTE DE PONT DANS LA
+CONQUÊTE DE  L’ESPACE…  UN  PROJET  AMBITIEUX  GRAVEMENT  TOUCHÉ  PAR
+L’ÉCHEC  DES  PROSPECTIONS  MINIÈRES  SUR  LA  LUNE…  STATION  COÛTEUSE
+DÉPASSÉE  PAR  NOS  USINES  ORBITALES  AUTOMATISÉES…  CRISTAUX,  SEMI-
+CONDUCTEURS ET PRODUITS CHIMIQUES D’UNE GRANDE PURETÉ…
+« Quelle prétention ! grogna le Plombier. Je suis sûr que Yefremov, ce
+salaud du K.G.B., est dans le coup. »
+L’ACCROISSEMENT AFFOLANT DU DÉFICIT DE LA BALANCE COMMERCIALE
+SOVIÉTIQUE…  LE  MÉCONTENTEMENT  POPULAIRE  FACE  AUX  SACRIFICES
+CONSENTIS EN MATIÈRE DE RECHERCHE SPATIALE… LES DÉCISIONS RÉCENTES
+DU POLIT-BURO ET DU SECRÉTARIAT DU COMITÉ CENTRAL…
+« Ils nous larguent ! » Le visage du Plombier se tordait de rage.
+Korolev s’arracha à l’écran ; il tremblait de manière incontrôlable. Des
+larmes  se  détachèrent  soudain  de  ses  cils  pour  s’éparpiller  dans
+l’apesanteur. « Laissez-moi tranquille ! Je n’y peux rien !— Que se passe-t-il, colonel ? » Le Plombier lui saisit les épaules.
+« Regardez-moi. » Il ouvrit de grands yeux surpris. « Quelqu’un vous a
+administré une dose de Peur.
+— Allez-vous-en, le supplia Korolev.
+— Ce sale petit bâtard ! Que vous a-t-il donné ? Des pilules ? Il vous a
+fait une piqûre ? »
+Korolev frissonna. « J’ai pris un peu d’alcool…
+— Il vous a filé la Peur ! Vous, un vieil homme malade ! Je vais lui
+casser  la  gueule  !  »  Le  Plombier  releva  les  genoux,  fit  une  culbute  en
+arrière, donna un coup de talon sur une prise et se catapulta hors de la pièce.
+« Attendez ! Plombier ? » Mais le Plombier, tel un écureuil, avait déjà
+traversé  la  sphère  d’arrimage  et  s’était  évanoui  dans  le  couloir  ;  et
+maintenant Korolev avait l’impression qu’il ne pourrait rester seul. Au loin,
+il entendit l’écho métallique de cris furieux.
+Toujours tremblant, il ferma les yeux et attendit de l’aide.
+ 
+Il avait demandé à Bychkov, le médecin psychiatre, de l’aider à enfiler
+son vieil uniforme, celui où était cousue, sur la poche gauche de la veste,
+l’étoile de l’ordre de Tsiolkovski. Malheureusement, les bottes assorties, en
+épais nylon noir matelassé et à semelles velcro, ne convenaient plus à ses
+pieds déformés. Il resta donc pieds nus.
+La piqûre de Bychkov l’avait remis d’aplomb en moins d’une heure et
+il alternait désormais entre la dépression et la colère tout en attendant dans
+le musée que Yefremov réponde à sa convocation.
+Ce  musée  du  Triomphe  spatial  soviétique  était,  comme  chacun  se
+plaisait à le dire, son domicile, et, à mesure que sa colère s’estompait pour
+faire place à une vieille tristesse, il lui semblait n’être plus qu’un de ces
+objets exposés. Il fixa d’un œil triste les portraits encadrés d’or des grands
+visionnaires de l’espace, les visages de Tsiolkovski, de Rynin, de Tupolev
+et, en dessous, dans des cadres un peu plus modestes, les portraits de Verne,
+Goddard et O’Neill.
+Dans des moments de dépression extrême, il avait parfois cru pouvoir
+déceler une étrangeté commune à tous ces regards. Était-ce l’expression de
+sa  folie,  comme  il  le  pensait  lorsqu’il  était  d’humeur  particulièrement
+cynique  ?  Ou  entrevoyait-il  une  subtile  manifestation  de  quelque  force
+curieuse, déséquilibrée – une force qui, comme il le soupçonnait, était peut-
+être l’évolution humaine en marche ?Une fois, et une seule, Korolev avait vu ses yeux s’éclairer de la même
+façon – le jour où il avait mis le pied sur le sol du bassin de Copratès. La
+lumière du soleil de Mars, qui scintillait dans la visière de son casque, lui
+avait montré le reflet de deux yeux fixes, inconnus – dénués de peur, mais
+possédés – et, il s’en rendait compte à présent, le choc tranquille et secret de
+cette découverte avait constitué l’un des moments les plus forts et les plus
+mémorables de sa vie.
+Au-dessus des portraits trônait une hideuse peinture qui représentait
+cet atterrissage avec l’inertie huileuse du bortsch et de la sauce en général.
+Le  paysage  martien  y  était  réduit  à  une  idéalisation  kitsch  du  réalisme
+socialiste soviétique. L’artiste avait placé la silhouette adéquate à côté du
+module d’atterrissage avec toute la vulgarité profondément sincère du style
+officiel.
+Écœuré  des  pensées  qui  lui  venaient,  Korolev  se  borna  à  attendre
+l’arrivée  de  Yefremov,  l’homme  du  K.G.B.,  le  responsable  politique  de
+Kosmograd.
+Quand Yefremov pénétra finalement dans le Saliout, Korolev remarqua
+la  lèvre  fendue,  les  ecchymoses  récentes  sur  le  cou  de  son  visiteur.
+Yefremov arborait une combinaison Kansaï bleue en soie japonaise et des
+chaussures  de  pont  italiennes  très  chic.  Il  toussa  poliment.  «  Bonjour,
+camarade colonel. »
+Korolev le regarda fixement, laissa le silence peser un instant avant de
+dire d’une voix grave : « Yefremov, je suis mécontent de vous. »
+Yefremov  rougit,  mais  soutint  son  regard.  «  Parlons  franchement,
+colonel. En vrais Russes. Bien entendu, tout cela ne vous était pas destiné.
+— La Peur, Yefremov ?
+—  Oui,  la  bêta-carboline.  Si  vous  n’aviez  pas  encouragé  leurs
+agissements antisociaux, si vous n’aviez pas accepté leur présent, rien ne
+vous serait arrivé.
+— Je serais donc un entremetteur, Yefremov ? Un entremetteur et un
+ivrogne ? Vous, vous êtes un cocu, un trafiquant et un mouchard ! Je ne
+vous dis cela, ajouta-t-il, que parce que nous parlons en vrais Russes. »
+Du  coup,  l’homme  du  K.G.B.  afficha  la  rectitude  inaltérable  et
+impénétrable du masque officiel.
+« Mais, dites-moi, Yefremov, qu’est-ce que vous mijotez au juste ?
+Qu’avez-vous fait depuis votre arrivée à Kosmograd ? Nous savons que le
+complexe  sera  démantelé.  Quel  sort  réserve-t-on  aux  civils  lorsqu’ilsregagneront Baïkonour ? On leur demandera de répondre des accusations de
+corruption lancées contre eux ?
+— Il y aura certainement des interrogatoires. Des hospitalisations dans
+certains cas. Suggéreriez-vous, camarade colonel, que l’Union soviétique
+aurait quelque responsabilité dans l’échec de Kosmograd ? »
+Korolev demeura silencieux.
+«  Kosmograd  était  un  rêve,  colonel.  Un  rêve  qui  a  échoué.  Tout
+comme l’aventure spatiale, colonel. Nous n’avons aucun intérêt à rester ici.
+Nous  avons  le  monde  entier  à  mettre  en  ordre.  Moscou  est  la  première
+puissance universelle de l’histoire de l’humanité. Comment nous permettre
+de perdre cette perspective universelle ?
+—  Pensez-vous  que  l’on  puisse  écarter  les  cosmonautes  que  nous
+sommes aussi aisément ? Nous représentons une élite, une élite hautement
+performante sur le plan technique.
+—  Une  minorité,  colonel.  Une  minorité  obsolète.  Quelle  est  votre
+contribution en dehors de toutes ces cochonneries américaines pernicieuses
+que vous récupérez ? Le présent équipage devait regrouper des travailleurs
+et non des spécialistes du marché noir trafiquant par satellite de la musique
+de jazz et de la pornographie. » Le visage de Yefremov demeurait lisse et
+paisible. « L’équipage regagnera Baïkonour. Notre défense peut être dirigée
+à partir du sol. Vous, bien entendu, vous resterez ici ; nous inviterons des
+cosmonautes de pays amis : des Africains, des Sud-Américains. Auprès de
+ces populations, l’espace conserve encore une part de son ancien prestige. »
+Korolev serra les dents. « Qu’avez-vous fait du garçon ?
+— Votre Plombier ? » Le responsable politique fronça les sourcils. « Il
+a agressé un responsable de la Sécurité de l’État. Il demeurera sous haute
+surveillance jusqu’au moment où nous pourrons le ramener à Baïkonour. »
+Korolev risqua un rire sardónique. « Relâchez-le. Vous aurez vous-
+même bien assez de problèmes à régler pour avancer des accusations contre
+lui. Je parlerai personnellement au maréchal Gubarev. Mes fonctions ici ont
+beau  être  purement  honorifiques,  je  n’en  garde  pas  moins  une  certaine
+influence. »
+L’homme  du  K.G.B.  haussa  les  épaules.  «  La  canonnière  a  reçu  de
+Baïkonour l’ordre de condamner le module de communications. Il y va de
+leurs carrières. Vous n’enverrez aucun message.
+— C’est donc la loi martiale ?— Nous ne sommes pas à Kaboul, colonel. Nous traversons des temps
+difficiles. Ici, vous jouissez de l’autorité morale ; vous devriez essayer de
+donner l’exemple. Le mélodrame est bien la dernière chose dont nous ayons
+besoin.
+— Nous verrons », répliqua Korolev.
+ 
+Kosmograd échappa à l’ombre de la Terre, s’offrit à la lumière brute
+du  soleil.  Les  cloisons  du  Saliout  de  Korolev  cliquetaient  et  crissaient
+comme un casier de bouteilles de verre. Les hublots, songea distraitement
+Korolev en effleurant les veines éclatées sur ses tempes, sont toujours les
+premiers à lâcher.
+Le  jeune  Grishkin  parut  avoir  la  même  pensée.  D’une  poche  à  sa
+cheville, il tira un tube de calfatage et inspecta le scellement du hublot.
+Grishkin était l’assistant du Plombier et son meilleur ami.
+« Nous devons maintenant procéder au vote », déclara Korolev d’un
+ton las. Sur les vingt-quatre civils de l’équipage, onze seulement avaient
+accepté de participer à la réunion, douze s’il se comptait. Restait donc treize
+personnes qui ne voulaient pas prendre le moindre risque ou bien carrément
+hostiles à l’idée d’une grève. En comptant Yefremov et les six hommes de
+la canonnière, le nombre total des absents passait à vingt. « Nous avons
+discuté de nos revendications. Les partisans de la liste ainsi définie… » Il
+leva sa main valide. Trois autres participants l’imitèrent. Grishkin, occupé
+avec le hublot, tendit le pied.
+Korolev soupira. « Nous ne sommes déjà guère nombreux. Il vaudrait
+mieux  que  nous  dégagions  une  unanimité.  Si  nous  entendions  vos
+objections ?
+— Le terme autorité militaire, lança un technicien biologiste nommé
+Korovkin, pourrait être analysé comme impliquant que c’est l’armée, et non
+ce  criminel  de  Yefremov,  qui  est  responsable  de  la  situation.  »  Le
+bonhomme paraissait extrêmement mal à l’aise. « Vous avez bien sûr toute
+notre sympathie, mais nous ne signerons rien. Nous sommes membres du
+Parti. »
+Il parut sur le point d’ajouter quelque chose mais n’en fit rien. « Ma
+mère », dit tout doucement sa femme, « était juive. »
+Korolev hocha la tête pour tout commentaire.
+«  Tout  cela  n’est  qu’imbécillité  criminelle  »,  déclara  Glushko,  le
+botaniste. Ni lui ni son épouse n’avait voté. « Folie. Kosmograd est finie,nous le savons tous. Plus tôt nous serons rentrés chez nous, mieux ce sera.
+Cet endroit a-t-il jamais été autre chose qu’une prison ? » L’apesanteur ne
+convenait pas au métabolisme de l’individu ; chez lui, le sang tendait à
+affluer au visage, sur le cou, et le faisait ressembler à une de ses citrouilles
+de laboratoire.
+D’un ton sec, sa femme intervint : « Tu es botaniste, Vassili. Alors que
+moi, permets-moi de te le rappeler, je suis pilote de Soyouz. On voit bien
+qu’il ne s’agit pas de ta carrière.
+— Je ne soutiendrai pas cette idiotie ! » Glushko flanqua contre la
+cloison un coup de pied sauvage qui le propulsa hors de la pièce. Sa femme
+le suivit, en se plaignant amèrement de cette voix de gorge que les membres
+de l’équipage avaient appris à utiliser pour les disputes privées.
+« Sur vingt-quatre civils, dit Korolev, cinq sont disposés à signer.
+— Six ! Vous oubliez le Plombier ! » s’écria Tatiana, l’autre pilote de
+Soyouz qui arborait une queue de cheval brune retenue par une tresse de fils
+de nylon verts.
+« Les ballons solaires ! » s’exclama Grishkin en tendant le doigt vers
+la Terre. « Regardez ! »
+Kosmograd  se  trouvait  pour  l’heure  au-dessus  de  la  côte
+californienne ; littoral parfaitement net, champs d’un vert intense, grandes
+villes décadentes aux noms empreints d’une étrange magie. Loin au-dessus
+d’un  moutonnement  de  stratocumulus  flottaient  cinq  ballons  solaires,
+sphères géodésiques miroitantes retenues par des lignes à haute tension ; ils
+avaient constitué un substitut énergétique moins coûteux que les satellites-
+centrales solaires des grandioses projets américains. De l’avis de Korolev,
+ces  machins  fonctionnaient  vu  qu’il  y  avait  dix  ans  qu’il  les  voyait  se
+multiplier.
+«  Et  des  gens  vivraient  dans  ces  trucs-là,  paraît-il  ?  »  Stoiko,
+responsable des systèmes, avait rejoint Grishkin au hublot.
+Korolev retrouvait le flou pathétique des étranges projets énergétiques
+caressés  par  les  Américains  à  la  suite  du  traité  de  Vienne.  L’Union
+soviétique détenant le contrôle absolu de la circulation du pétrole dans le
+monde, l’Amérique s’était montrée prête à essayer n’importe quoi. Puis la
+catastrophe nucléaire du Kansas lui avait laissé une méfiance indélébile à
+l’endroit des réacteurs. Il y avait maintenant plus de trois décennies que les
+Américains  glissaient  progressivement  dans  l’isolationnisme  et  le  déclin
+industriel.  L’espace,  songea-t-il  tristement,  ils  auraient  dû  aller  dansl’espace. Il n’avait jamais compris l’étrange paralysie qui avait inhibé des
+efforts  initialement  remarquables.  Peut-être  s’agissait-il  simplement  d’un
+grippage de l’imagination, de la puissance visionnaire ? Vous voyez, vous
+les Américains, dit-il en son for intérieur, vous auriez vraiment dû essayer
+de vous joindre à nous, ici, dans cet avenir glorieux. Ici, à Kosmograd.
+«  Qui  voudrait  vivre  dans  un  truc  pareil  ?  »  demanda  Stoiko  en
+donnant  une  bourrade  sur  l’épaule  de  Grishkin  et  en  riant  de  l’énergie
+tranquille du désespoir.
+ 
+«  Vous  plaisantez,  fit  Yefremov.  Nous  avons  déjà  bien  assez  de
+problèmes comme ça.
+—  Nous  ne  plaisantons  pas,  camarade  Yefremov,  et  voici  nos
+revendications. » Les cinq dissidents s’étaient rassemblés dans le Saliout
+que le responsable politique partageait avec Valentina, le repoussant vers
+l’écran  du  fond,  décoré  d’une  représentation  à  l’aérographe  du  premier
+ministre  qui,  assis  à  l’arrière  d’un  tracteur,  saluait  ses  admirateurs.
+Valentina, Korolev le savait, devait se trouver dans le musée en compagnie
+de Romanenko, à faire grincer les sangles. Korolev se demanda comment
+Romanenko se débrouillait pour se dérober si régulièrement à ses heures de
+garde dans la canonnière.
+Yefremov  haussa  les  épaules.  Il  jeta  un  coup  d’œil  à  la  liste  de
+revendications. « Le Plombier doit demeurer sous haute surveillance. J’ai
+des ordres précis. Quant au reste de ce document…
+—  Vous  êtes  coupable  d’avoir  utilisé  des  drogues  psychiatriques
+interdites ! hurla Grishkin.
+—  Il  s’agissait  d’une  affaire  personnelle,  répondit  calmement
+Yefremov.
+— C’est un acte délictueux, renchérit Tatiana.
+— Pilote Tatiana, nous savons tous les deux que Grishkin ici présent
+est le premier pirate de samizdata de la station. Ne voyez-vous pas que nous
+sommes tous des délinquants ? C’est la beauté de notre système, n’est-ce
+pas  ?  »  Son  brusque  sourire  grimaçant  était  d’un  cynisme  choquant.
+«  Kosmograd  n’est  pas  le  Potemkine,  et  vous  n’avez  rien  de
+révolutionnaires.  Et  vous  exigez  de  communiquer  avec  le  maréchal
+Gubarev ? Il est en prison à Baïkonour. Et vous exigez un entretien avec le
+ministre des Technologies ? C’est lui qui gère la purge. » D’un geste décidé,
+il déchira la liste des revendications ; de petits morceaux de papier pelurejaune s’éparpillèrent au gré de l’apesanteur comme autant de papillons au
+ralenti.
+ 
+Au neuvième jour de la grève, Korolev retrouva Grishkin et Stoiko
+dans le Saliout que Grishkin avait auparavant partagé avec le Plombier.
+Depuis  quarante  ans,  les  habitants  de  Kosmograd  avaient  mené,  à
+coups  d’antiseptiques,  une  guerre  sévère  contre  les  moisissures  de  toute
+sorte. En apesanteur, poussière, graisse et vapeur ne retombaient jamais, et
+les spores étaient partout – dans les rembourrages, dans les vêtements, dans
+les conduits de ventilation. Dans l’atmosphère chaude, moite comme un
+bouillon de culture, elles se répandaient comme des nappes de pétrole. Il y
+avait maintenant dans l’air une odeur de pourriture sèche, que dominaient
+de  sinistres  émanations  révélatrices  d’une  combustion  de  matériaux
+isolants.
+Le sommeil de Korolev avait été interrompu par le bruit sourd d’un
+module Soyouz en partance. Glushko et sa femme, supposait-il. Durant les
+dernières quarante-huit heures, Yefremov avait supervisé l’évacuation des
+membres  de  l’équipage  ayant  refusé  de  se  joindre  aux  grévistes.  Les
+canonniers demeuraient encore à leur poste ou dans leur enceinte, où ils
+retenaient toujours Nikita le Plombier.
+Le Saliout de Grishkin était devenu le quartier général des grévistes.
+Aucun d’entre eux ne s’était rasé, et Stoiko avait contracté une infection
+staphylococcique  qui  s’étendait  en  sombres  zébrures  sur  ses  avant-bras.
+Entourés de pin-ups pulpeuses de la télévision américaine, ils ressemblaient
+à  quelque  trio  de  pornographes  dégénérés.  La  lumière  était  chiche  ;
+Kosmograd  fonctionnait à moitié  de sa puissance. « Maintenant que les
+autres  sont  partis,  déclara  Stoiko,  nous  avons  davantage  de  liberté  de
+manœuvre. »
+Grishkin  poussa  une  sorte  de  barrissement.  Il  avait  les  narines
+festonnées de coton chirurgical. Il était persuadé que Yefremov allait tenter
+de  briser  la  grève  au  moyen  d’aérosols  de  bêta-carboline.  Cela  dit,  ces
+tampons de coton n’étaient qu’un des nombreux symptômes du niveau de
+tension  et  de  paranoïa  général.  Avant  même  que  l’ordre  d’évacuation
+n’arrive de Baïkonour, l’un des techniciens avait fait beugler des heures
+durant  l'Ouverture  1812  de  Tchaïkovski.  Quant  à  Glushko,  il  avait
+pourchassé sa femme, nue, couverte d’ecchymoses, hurlante, d’un bout à
+l’autre de Kosmograd. Stoiko s’était débrouillé pour mettre la main sur lesdossiers  de  l’homme  du  K.G.B.  et  sur  les  rapports  psychiatriques  de
+Bychkov ; de fait, des mètres de listage jaune couraient dans les couloirs en
+molles  spirales  qui  ondoyaient  au  gré  de  la  brise  des  ventilateurs.  Des
+locaux militaires, Romanenko avait réussi à faire passer un message disant
+que le Plombier avait essayé de se pendre – en attachant des sangles de
+maintien élastiques à son cou et à ses chevilles.
+« Pensez à ce que nous vaudront leurs témoignages à terre, marmonna
+Grishkin. On ne nous fera même pas de procès. On nous enverra tout droit à
+la  psikushka.  »  La  terreur  qu’inspirait  le  sinistre  surnom  des  hôpitaux
+psychiatriques semblait le galvaniser. Le geste apathique, Korolev prit une
+bouchée d’un pudding aux chlorelles fortement visqueux.
+Stoiko attrapa un rouleau de documents informatiques qui flottaient à
+proximité et lut à voix haute : « Paranoïa avec tendance à la surestimation
+des  idées  !  Fantasmes  révisionnistes  hostiles  au  système  social  !  »  Il
+chiffonna  le  papier.  «  Si  nous  pouvions  nous  emparer  du  module  de
+communications,  nous  pourrions  nous  connecter  sur  un  satellite  de
+communications américain et lui balancer toute l’affaire. Peut-être que ça
+ferait mesurer à Moscou le degré de notre hostilité ! »
+Korolev extirpa une drosophyle de son pudding aux algues. Ses deux
+paires d’ailes et son thorax fourchu étaient un témoignage muet du haut
+niveau  de  radiation  de  Kosmograd.  Les  insectes  avaient  dû  échapper  à
+quelque  expérience  oubliée  ;  des  générations  de  mouches  infestaient  la
+station depuis des décennies. « Nous n’intéressons pas les Américains, dit
+Korolev. De telles révélations ne peuvent plus embarrasser Moscou.
+— Sauf à l’heure des envois de céréales, répliqua Grishkin.
+—  L’Amérique  a  autant  besoin  de  vendre  que  nous  d’acheter.  »
+Sinistre, Korolev enfourna une nouvelle cuillerée de chlorelles, mastiqua
+mécaniquement,  avala.  «  Quand  bien  même  ils  le  voudraient,  les
+Américains ne pourraient nous atteindre. Canaveral est en ruine.
+— Nous n’avons plus guère de combustible, fit Stoiko.
+— On peut en récupérer sur les modules de descente qui nous restent,
+lança Korolev.
+— En ce cas, comment diable rejoindrions-nous la terre ? » Les poings
+de Grishkin tremblaient. « Même en Sibérie, il y a des arbres, des arbres ; le
+ciel ! Que ce truc aille se faire foutre ! Qu’il tombe en morceaux ! Qu’il
+tombe en morceaux et qu’on n’en parle plus ! »
+Le pudding de Korolev éclaboussa la cloison.« Oh ! pardon, s’écria Grishkin. Je suis désolé, colonel. Je sais que
+vous ne pouvez regagner la Terre. »
+Lorsqu’il  entra  dans  le  musée,  il  trouva  le  pilote  Tatiana  suspendu
+devant l’odieux tableau représentant l’atterrissage sur Mars. En le voyant, la
+jeune femme essuya les larmes qui scintillaient sur ses cils.
+« Savez-vous, colonel, qu’il y a un buste de vous à Baïkonour ? En
+bronze.  Je  l’ai  remarqué  en  me  rendant  à  des  conférences.  »  Ses  yeux
+étaient rouges d’insomnie.
+« Il y a toujours des bustes. Les universitaires en ont besoin. » Il sourit
+et lui prit la main.
+« Comment c’était, ce jour-là ? » Elle contemplait toujours le tableau.
+« Je ne m’en souviens guère. J’ai vu tant de vidéos qu’elles ont occulté
+la réalité. Mes souvenirs de Mars s’apparentent à ceux d’un écolier. » Il lui
+sourit à nouveau. « Mais ça n’avait rien à voir avec ce vilain tableau. J’en
+suis certain.
+— Comment en sommes-nous arrivés là, colonel ? Pourquoi faut-il que
+la belle aventure se termine ainsi ? Quand j’étais petite, j’ai tout suivi à la
+télévision. Notre avenir dans l’espace devait être éternel.
+— Peut-être que les Américains avaient raison. Les Japonais se sont
+contentés d’envoyer des machines, des robots qui ont construit leurs usines
+orbitales. Pour nous, l’exploitation minière de la Lune s’est soldée par un
+échec, mais nous avons pensé que nous pourrions au moins disposer de
+laboratoires de recherche permanents… J’imagine que tout cela est lié à des
+considérations budgétaires. Et à des bureaucrates !
+— Voici leur dernière décision concernant Kosmograd. » Elle lui tendit
+un morceau de papier pelure plié. « J’ai trouvé ça parmi les ordres que
+Yefremov  a  reçus  de  Moscou.  Les  autorités  s’accordent  trois  mois  pour
+laisser l’orbite de la station se déglinguer. »
+Il découvrit alors que lui aussi fixait maintenant cette peinture qu’il
+abhorrait. « Ça n’a plus beaucoup d’importance à présent », s’entendit-il
+répondre.
+Le visage pressé contre l’épaule de Korolev, la jeune femme versa des
+larmes amères.
+«  Mais  j’ai  un  plan,  Tatiana  »,  fit-il  en  lui  caressant  les  cheveux.
+« Écoutez-moi. »
+Il jeta un coup d’œil à sa vieille Rolex. Ils se trouvaient au-dessus de la
+Sibérie orientale. C’était l’ambassadeur de Suisse, il s’en souvenait, qui luiavait offert la montre, dans une immense salle voûtée du grand palais du
+Kremlin.
+Il était temps de commencer.
+Il flotta de son Saliout jusqu’à la sphère d’arrimage, en repoussant de
+la main un bout de listage qui cherchait à s’enrouler autour de sa tête.
+De sa main valide, il pouvait encore travailler vite et bien. Il sourit en
+dégageant une grande bouteille d’oxygène des sangles qui la retenaient. Il
+s’accrocha  à  une  poignée  de  sécurité  et,  de  toutes  ses  forces,  lança  la
+bouteille à travers la sphère. Elle rebondit avec un bruit sec, mais sans qu’il
+y eût de dommage. Il alla la récupérer, la lança à nouveau.
+Puis, il toucha l’alarme de décompression.
+De la poussière jaillit des haut-parleurs à l’instant où une sirène lançait
+ses  premiers  gémissements.  Suite  au  déclenchement  de  l’alarme,  les
+écoutilles d’amarrage se refermèrent brusquement tandis que les plaintes
+des circuits hydrauliques résonnaient aux oreilles de Korolev. Il éternua,
+puis se mit une nouvelle fois en quête de la bouteille.
+Les  lumières  brillèrent  d’un  éclat  extraordinaire,  puis  s’éteignirent.
+Tout en poursuivant ses recherches à tâtons, il sourit dans la pénombre.
+Stoiko avait provoqué la panne de tous les systèmes. L’affaire n’avait pas
+été  bien  difficile.  Les  banques  de  données  centralisées,  sursaturées
+d’émissions télévisées piratées, approchaient déjà de leur point de rupture.
+« De l’artisanat pur et dur », marmonna-t-il en cognant une fois de plus la
+bouteille contre la cloison. Les générateurs de secours prirent alors le relais
+et un semblant de lumière revint.
+Son  épaule  le  faisait  souffrir.  Stoïque,  il  continua  son  opération  de
+martelage. Il n’avait pas oublié le vacarme que provoquait une véritable
+fuite. Il fallait que ça marche. Il fallait duper Yefremov et les canonniers.
+Dans  un  grincement  strident,  le  volant  commandant  l’ouverture
+manuelle  de  l’une  des  écoutilles  commença  à  tourner.  Celle-ci  finit  par
+s’ouvrir, et Tatiana apparut, un timide sourire aux lèvres.
+« Le Plombier – est libre ? » demanda-t-il en relâchant sa bouteille.
+« Stoiko et Oumanski s’occupent de convaincre le garde. »
+Elle se colla un coup de poing dans la paume de la main. « Grishkin
+prépare les modules de descente. »
+Il la suivit dans le couloir menant à la sphère d’arrimage suivante.
+Stoiko  aidait  le  Plombier  à  franchir  l’écoutille  conduisant  aux  locaux
+militaires. Le Plombier était nu-pieds et, sous la barbe hirsute, son visageparaissait verdâtre. Le météorologue Oumanski les suivait, tout en traînant
+le corps inerte d’un soldat.
+« Comment allez-vous, Plombier ? demanda Korolev.
+— Je suis secoué. Ils m’ont tenu sous Peur. Pas à fortes doses, mais…
+j’ai cru à une véritable brèche quelque part ! »
+Grishkin émergea du module Soyouz le plus proche de Korolev ; il
+traînait un paquet d’outils et des mètres de corde en nylon. « Ils se tirent
+tous.  La  panne  des  systèmes  les  oblige  à  s’en  remettre  à  leurs  propres
+dispositifs automatiques. J’ai bricolé leurs commandes à distance avec mon
+tournevis, comme ça le contrôle au sol ne pourra pas les prendre en charge.
+Comment allez-vous, mon cher Nikita ? demanda-t-il au Plombier. Vous
+allez mettre le cap direct sur le centre de la Chine. »
+Le Plombier cilla, se secoua et frissonna. « Je ne parle pas chinois. »
+Stoiko  lui  tendit  un  rouleau  de  listage.  «  C’est  écrit  en  mandarin
+phonétique.  “Je  veux  quitter  mon  pays.  Conduisez-moi  auprès  de
+l’ambassade japonaise la plus proche.” »
+Le Plombier sourit et passa les doigts dans ses cheveux raidis par la
+sueur. « Et vous autres ? demanda-t-il.
+—  Que  croyez-vous  ?  Que  nous  faisons  tout  cela  rien  que  pour
+vous ? » Tatiana lui adressa une grimace. « Assurez-vous que les médias
+chinois aient la suite du document, Plombier. Nous en avons tous une copie.
+Il faut que le monde entier sache ce que l’Union Soviétique a l’intention de
+faire subir au colonel Youri Vasilevich Korolev, le premier homme à avoir
+marché sur Mars ! » Elle envoya un baiser au Plombier.
+« Et qu’allons-nous faire de Filipchenko ? » demanda Oumanski en
+désignant le corps inerte à côté de lui. Quelques sphères brunes de sang
+coagulé flottaient ici et là autour des joues du soldat inconscient.
+«  Pourquoi  ne  pas  emmener  ce  malheureux  avec  vous  ?  suggéra
+Korolev.
+— Alors àmène-toi, connard », fit le Plombier en attrapant Filipchenko
+par la ceinture et en le remorquant jusqu’à l’écoutille du Soyouz. « Moi,
+Nikita le Plombier, te fais grâce de ta misérable existence. »
+Korolev observa Stoiko et Grishkin qui refermaient l’écoutille sur eux.
+« Où sont Romanenko et Valentina ? » demanda Korolev en regardant
+une nouvelle fois sa montre.
+« Ici, colonel », répondit Valentina. Son visage auréolé d’une masse
+ondoyante  de  cheveux  blonds  s’encadrait  à  l’entrée  d’un  autre  Soyouz.«  On  était  en  train  de  vérifier  cet  engin.  »  Elle  laissa  échapper  un
+gloussement.
+« Vous aurez assez de temps pour cela à Tokyo », répliqua sèchement
+Korolev. « D’ici quelques minutes Vladivostok et Hanoi vous dépêcheront
+leurs jets. »
+Romanenko  tendit  un  bras  nu  et  musclé  vers  la  jeune  femme,
+l’obligeant à réintégrer le module. Stoiko et Grishkin fermèrent l’écoutille.
+Un bruit sourd ébranla Kosmograd quand le Plombier, accompagné de
+Filipchenko  toujours  inconscient,  se  détacha  de  la  station.  Un  autre
+grondement et ce fut au tour des amants de filer.
+«  Allez,  venez,  camarade  Oumanski,  lança  Stoiko.  Et  au  revoir,
+colonel ! » Les deux hommes s’éloignèrent dans le couloir.
+« Je vous accompagne », déclara Grishkin à Tatiana. Il sourit. « Après
+tout, vous êtes pilote.
+— Non, répondit-elle. Je pars seule. Autant répartir les risques. Vous
+n’aurez  aucun  problème  avec  les  dispositifs  automatiques.  Gardez-vous
+simplement de toucher à quoi que ce soit. »
+Korolev la regarda aider Grishkin à grimper à bord du dernier Soyouz.
+« Je vous emmènerai danser, Tatiana, lui lança Grishkin. À Tokyo. »
+Elle ferma hermétiquement l’écoutille. Nouveau boum. Stoiko et Oumanski
+avaient quitté la station.
+« Allez-y maintenant, Tatiana, dit Korolev. Dépêchez-vous. Je ne veux
+pas qu’ils vous abattent au-dessus des eaux internationales.
+— Mais vous restez seul ici, colonel, seul avec nos ennemis.
+— Lorsque vous serez partis, ils s’en iront à leur tour.
+Moi,  je  m’en  remets  à  votre  campagne  de  presse  pour  embêter  le
+Kremlin avec le problème de me garder en vie ici.
+— Et que devrai-je dire une fois à Tokyo, colonel ? Avez-vous un
+message pour le monde ?
+— Vous lui direz… » Tous les clichés lui revinrent à l’esprit avec une
+précision qui lui donna envie d’éclater de rire : C’est un petit pas… nous
+sommes venus avec des intentions pacifiques… travailleurs de l’univers…
+«  Vous  lui  direz  que  j’ai  besoin  de  lui  »,  dit-il  en  pinçant  son  poignet
+rabougri.
+« Jusque dans la moelle de mes os. »
+Elle l’étreignit et s’esquiva.
+ Il attendait seul dans la sphère d’arrimage. Le silence l’agaçait ; la
+panne  des  systèmes  avait  coupé  les  circuits  de  ventilation  dont  le
+ronronnement l’avait bercé vingt ans durant. Enfin, il entendit le Soyouz de
+Tatiana qui décrochait.
+Quelqu’un avançait dans le couloir. C’était Yefremov qui se déplaçait
+maladroitement dans une combinaison spatiale. Korolev sourit.
+Derrière  sa  visière  en  Lexan,  Yefremov  affichait  son  masque
+d’impassibilité officiel, mais il évita le regard de Korolev. Il filait vers la
+canonnière.
+La sirène retentit. Branle-bas de combat.
+« Non ! » hurla Korolev.
+L’écoutille de la canonnière était ouverte lorsque Korolev l’atteignit. À
+l’intérieur,  conditionnés  par  leurs  exercices  constants,  les  soldats
+réagissaient promptement, ramenant d’un geste brusque les larges sangles
+des  sièges  de  leurs  consoles  sur  le  devant  de  leurs  combinaisons
+volumineuses.
+« Ne faites pas cela ! » Korolev s’élança dans la pièce, agrippa les plis
+raides de la combinaison de Yefremov. Dans une plainte saccadée, l’un des
+accélérateurs  s’emballa.  Sur  un  écran  de  contrôle,  des  réticules  verts  se
+refermèrent sur un point rouge.
+Yefremov  ôta  son  casque  calmement  ;  sans  que  rien  n’altérât  son
+expression, il s’en fît une arme pour repousser Korolev.
+« Arrêtez-les ! » Korolev sanglotait. Les cloisons frémirent comme un
+faisceau  fusait  dans  un  bruit  pareil  à  un  claquement  de  fouet.  «  Votre
+femme, Yefremov ! Elle se trouve dans un des modules !
+—  Sortez,  colonel.  »  Yefremov  s’empara  de  la  main  arthritique  de
+Korolev, la pressa. Korolev hurla. « Sortez ! » Un poing ganté le frappa à la
+poitrine.
+Korolev  tambourina  en  vain  contre  la  combinaison  spatiale  tandis
+qu’on le ramenait vers le couloir. « Même moi, colonel, je n’oserais pas
+enfreindre  les  ordres  de  l’Armée  rouge.  »  Yefremov  paraissait  malade
+maintenant  ;  le  masque  s’était  brisé.  «  Soyez  chic,  dit-il.  Patientez  ici
+jusqu’à ce que tout soit terminé. »
+Puis le Soyouz de Tatiana vint s’écraser contre le dispositif d’émission
+de faisceaux et les locaux militaires. En l’espace d’une fraction de seconde
+de lumière brute, Korolev vit la canonnière se froisser et s’aplatir comme
+une  boîte  de  bière  ;  il  vit  le  torse  décapité  d’un  soldat  s’envoler  d’uneconsole ; il vit Yefremov qui tentait de parler, les cheveux droits sur la tête
+comme l’air aspiré par le vide s’échappait de sa combinaison par l’anneau
+de fixation du casque. De minces filets de sang jaillirent des narines de
+Korolev et, dans sa tête, une sorte de rugissement remplaça le grondement
+de l’air qui prenait le large. La dernière chose qu’il entendit, avant le silence
+total, fut le bruit de l’écoutille qui se refermait brusquement.
+Quand il se réveilla, il trouva les ténèbres, la souffrance qui palpitait
+derrière ses paupières, le souvenir de vieilles conférences. Le danger était
+maintenant aussi sérieux que la déperdition d’air elle-même, devenait azote
+bouillonnant  dans  le  sang  avant  de  frapper  ensuite  d’une  douleur
+intolérable, paralysante…
+Ses poumons pompaient désespérément dans le vide et, du fait de la
+décompression, il se boursouflait. Il sentait sa langue saillir entre ses lèvres.
+Les  choses  commencèrent  à  lui  paraître  très  lointaines.  Complètement
+abstraites. Poussé par une vague idée du devoir, genre noblesse oblige, il
+actionna le volant de l’écoutille. L’effort lui coûta beaucoup ; il ne désirait
+qu’une chose : regagner son musée et dormir.
+ 
+Il parvint à calfater les fuites, mais la panne des systèmes le dépassait.
+Il disposait du jardin de Glushko. Avec les légumes et les algues, il ne
+mourrait ni de faim ni de suffocation. Le module de communications avait
+été emporté avec la canonnière et les locaux militaires, arrachés à la station
+sous l’impact du Soyouz kamikaze de Tatiana. Il présumait que la collision
+avait  perturbé  l’orbite  de  Kosmograd,  mais  n’avait  aucun  moyen  de
+déterminer  l’heure précise du brûlant  rendez-vous de la  station avec les
+couches supérieures de l’atmosphère. Il était souvent malade à présent et se
+disait  qu’il  risquait  de  mourir  avant  l’ultime  embrasement,  ce  qui  le
+contrariait.
+Il passait d’innombrables heures à se projeter les enregistrements de la
+bibliothèque du musée. Passe-temps approprié pour ce Dernier Homme de
+l’Espace qui, jadis, avait été le Premier Homme sur Mars.
+Il  devenait  obsédé  par  l’image  de  Gagarine  et  se  repassait
+inlassablement  les  images  télévisées  neigeuses  des  années  soixante,  les
+bandes d’actualités qui le ramenaient toujours, de façon inexorable, à la
+mort du cosmonaute. L’atmosphère renfermée de Kosmograd grouillait de
+martyrs.  Gagarine,  l’équipage  du  premier  Saliout,  les  Américains  brûlés
+vifs dans le module de commande de leur Apollo…Souvent,  il  rêvait  de  Tatiana,  l’expression  de  ses  yeux  semblable  à
+celle qu’il avait imaginée dans les regards des portraits du musée. Une fois
+même,  il  s’éveilla  ou  rêva  qu’il  s’éveillait  dans  le  Saliout  où  elle  avait
+dormi, pour se retrouver dans son vieil uniforme, une lampe-torche à pile
+attachée à son front. De loin, comme s’il avait contemplé des actualités sur
+l’écran de l’ordinateur du musée, il se vit tirer de sa poche l’étoile de l’ordre
+de Tsiolkovski et la fixer sur son brevet de pilote.
+Quand il entendit frapper, il crut également avoir rêvé.
+L’écoutille du musée s’ouvrait.
+Dans la lumière palpitante et bleutée du vieux film, il vit que la femme
+était noire. De longs tire-bouchons de cheveux emmêlés s’élevaient comme
+autant de cobras autour de sa tête. Elle portait des lunettes protectrices et un
+foulard d’aviateur en soie flottait derrière elle dans l’apesanteur. « Andy, fit-
+elle en anglais, tu ferais bien de venir voir ça ! »
+Un  petit  homme  trapu,  quasiment  chauve  et  seulement  vêtu  d’un
+suspensoir et d’une ceinture garnie d’outils cliquetants, voltigeait sur les
+traces de sa compagne. Il jeta un coup d’œil à l’intérieur. « Il est vivant ?
+— Bien sûr que je suis vivant », répondit Korolev dans un anglais
+légèrement teinté d’accent.
+L’homme nommé Andy passa au-dessus de la tête de la jeune femme.
+« Ça va, mon pote ? » Son biceps droit présentait le tatouage d’un ballon
+géodésique dominant des éclairs croisés et les mots SUNSPARK 15, UTAH.
+« Nous ne pensions pas trouver qui que ce soit ici.
+— Moi non plus, fit Korolev en cillant.
+— Nous venions nous installer ici, précisa la femme en approchant.
+—  On  vient  des  ballons.  Vous  pourriez  nous  traiter  de  squatters,
+j’imagine. On nous avait dit que la place était libre. Vous connaissez la
+dérive  de  votre  orbite  ?  »  L’homme  exécuta  maladroitement  un  saut
+périlleux  et  fit  cliqueter  les  outils  accrochés  à  sa  ceinture.  «  Cette
+apesanteur est incroyable !
+—  Grand  Dieu  !  s’exclama  la  femme.  Je  ne  m’y  fais  pas  !  C’est
+merveilleux. On croirait du parachutisme en chute libre, mais sans vent. »
+Korolev regarda l’homme qui avait l’allure brouillonne et désinvolte
+d’un être ivre de liberté depuis la naissance. « Mais vous n’avez même pas
+de rampe de lancement, remarqua-t-il.
+— De rampe de lancement ? fit l’homme en riant. Pourquoi ? Nous
+remorquons  des  propulseurs  auxiliaires  jusqu’aux  ballons  via  les  câbles,puis nous les lâchons pour une mise à feu entre ciel et terre.
+— C’est fou, dit Korolev.
+— Ils nous ont bien amenés jusqu’ici, non ? »
+Korolev opina. Si c’était un rêve, il était plutôt bizarre. « Laissez-moi
+me présenter. Colonel Youri Vasilevich Korolev.
+—  Mars  !  »  La  femme  applaudit.  «  Attendez  que  les  enfants
+apprennent cela. » Elle décolla la jeep lunaire Lunokhod de la cloison et
+entreprit de la remonter.
+«  Hé,  fit  l’homme.  Il  faut  que  je  me  mette  au  travail.  Nous  avons
+quelques propulseurs dehors. Il faut que nous remontions ce machin avant
+qu’il ne prenne feu. »
+Quelque  chose  cogna  contre  la  coque.  Sous  l’impact,  Kosmograd
+tournoya. « Ce doit être Tulsa », dit Andy après avoir consulté sa montre.
+« Juste à l’heure.
+— Mais pourquoi ? » Korolev, complètement désorienté, secouait la
+tête. « Pourquoi êtes-vous ici ?
+— Nous vous l’avons dit. Pour y habiter. Nous pouvons agrandir cet
+espace, construire peut-être. Ils juraient que nous ne pourrions jamais vivre
+dans  les  ballons,  mais  nous  avons  été  les  seuls  à  les  faire  fonctionner.
+C’était notre seule et unique chance de parvenir jusqu’ici par nos propres
+moyens. Qui voudrait vivre ici pour un gouvernement, pour une médaille,
+pour une bande de ronds-de-cuir ? Il faut vouloir des territoires neufs – et le
+vouloir jusqu’à la moelle, non ? » Korolev sourit et Andy lui rendit son
+sourire.
+«  Nous  avons  agrippé  ces  câbles  électriques  et  nous  nous  sommes
+hissés jusqu’en haut. Une fois là… eh bien, de deux choses l’une, tu fais le
+grand saut ou tu attends de pourrir sur place. » Il éleva la voix. « Et on ne
+regarde plus en arrière, non, monsieur ! Bref, le grand saut, nous l’avons
+fait et nous sommes ici pour de bon ! »
+La femme reposa les roues de velcro du modèle réduit contre le mur
+incurvé  et  lâcha  prise.  Le  Lunokhod  fila  au-dessus  de  leurs  têtes  en
+ronronnant joyeusement. « Que c’est mignon ! Les enfants vont adorer ! »
+Korolev regarda Andy dans les yeux. Kosmograd tournait à nouveau
+sur elle-même, lançant le mini-Lunokhod sur une trajectoire nouvelle.
+«  Los  Angeles  Est,  déclara  la  femme.  C’est  là  que  se  trouvent  les
+enfants. » Elle ôta ses lunettes et Korolev vit que ses yeux pétillaient d’une
+merveilleuse folie.« Bien », fit Andy en agitant sa ceinture à outils. « Ça vous dirait de
+nous faire visiter les lieux ? »
+ 

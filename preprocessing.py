@@ -6,9 +6,6 @@ Created on Tue Feb  1 18:18:51 2022
 """
 
 # basic base
-import numpy as np
-import pandas as pd
-import os
 import nltk
 import string
 # English Preprocessing Base
@@ -75,18 +72,3 @@ def Preprocess_list_of_French_Sentence(listofSentence):
 
     return preprocess_list
     
-train_data = pd.read_csv('./train.csv')
-
-# print(train_data.head())
-
-# English Pre-processing Test Set
-preprocess_list = Preprocess_list_of_English_Sentence(train_data['text'])
-print('Base sentence : '+train_data['text'][2])
-print('Cleaned sentence : '+preprocess_list[2])
-
-# French Pre-processing Test Set
-lst = ['C\'est un test pour lemmatizer','plusieurs phrases pour un nettoyage','eh voilà la troisième !']
-french_text = pd.DataFrame(lst, columns =['text'])
-french_preprocess_list = Preprocess_list_of_French_Sentence(french_text['text'])
-print('Base sentence : '+ lst[1])
-print('Cleaned sentence : '+ french_preprocess_list[1])

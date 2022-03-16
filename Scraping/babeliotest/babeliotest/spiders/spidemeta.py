@@ -21,23 +21,25 @@ class SpidemetaSpider(scrapy.Spider):
     #https://www.babelio.com/auteur/David-Bessis/56884
     #https://www.babelio.com/livres/Stephenson-Le-samourai-virtuel/927389/critiques
     #https://www.babelio.com/auteur/-Anonyme/3186/citations
+    start_urls=["https://www.babelio.com/livres/Bennett-The-Founders-trilogy-tome-1--Les-Maitres-enlumine/1301785"]
     custom_settings = {
         'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0',
     }
 
     def __init__(self):
         for i in range(2,8) :
-            self.start_urls.append("https://www.babelio.com/livres-/cyberpunk/186"+"?page="+str(i))
+            pass
+            # self.start_urls.append("https://www.babelio.com/livres-/cyberpunk/186"+"?page="+str(i))
 
 
-    def parse(self, response):
+    def parse_gen(self, response):
         for linkBook in response.css(".list_livre") :
-            yield {"linkbook":linkBook.css("a::attr(href)").extract_first()}
-            # yield Request("https://www.babelio.com"+linkBook.css("a::attr(href)").extract_first(), callback=self.parse_book,dont_filter=True)
+            # yield {"linkbook":linkBook.css("a::attr(href)").extract_first()}
+            yield Request("https://www.babelio.com"+linkBook.css("a::attr(href)").extract_first(), callback=self.parse_book,dont_filter=True)
     pass
 
 
-    def parse_book(self, response):
+    def parse(self, response):
         settings = get_project_settings()
         driver_path = settings['CHROME_DRIVER_PATH']
         options = webdriver.ChromeOptions()
@@ -47,8 +49,9 @@ class SpidemetaSpider(scrapy.Spider):
         driver.maximize_window()
         js = response.css("#d_bio a::attr(onclick)").extract_first()
 
-        driver.execute_script(js)
-        time.sleep(2)
+        if js :
+            driver.execute_script(js)
+            time.sleep(2)
         page_source = driver.page_source
 
         selector = Selector(text=page_source) # Load source code in a selector
@@ -64,11 +67,15 @@ class SpidemetaSpider(scrapy.Spider):
         meta["Edition"] = response.css(".livre_refs .tiny_links ::text").extract() #edtion
         
         meta["Summary"] = selector.css("#d_bio.livre_resume ::text").extract() #book summary
-        meta["Tags"] = response.css(".side_l_content p.tags ::text").extract() #book tags
-        meta["Note"] = response.css(".grosse_note ::text").extract() #book note
-        
+        meta["Tags"] = {}
+        for tag in response.css(".side_l_content p.tags a") : 
 
-        yield Request(response.url+"/critiques", callback=self.parse_critics,dont_filter=True, meta = meta)
+            meta["Tags"][tag.css("::text").extract_first()] = tag.css("::attr(class)").extract_first().split(" ")[0][-2:]  #book tags
+        meta["Note"] = response.css(".rating::text").extract() #book note
+        meta["nbNote"] = response.css("span[itemprop='ratingCount']::text").extract_first()
+        
+        yield meta
+        # yield Request(response.url+"/critiques", callback=self.parse_critics,dont_filter=True, meta = meta)
         #yield Request(response.url+"/citations", callback=self.parse_quotes,dont_filter=True)
         #yield Request("https://www.babelio.com"+response.css(".livre_auteurs ::attr(href)").extract_first(), callback=self.parse_author,dont_filter=True)
         

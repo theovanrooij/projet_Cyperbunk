@@ -20,6 +20,7 @@ class BooknodedystopieSpider(scrapy.Spider):
             meta["topicId"] = linkTopic.split("=")[2].split("&")[0]
             meta["datePost"] = post.css(".topic-poster time::attr(datetime)").extract_first()
             meta["lastUpdate"] = post.css(".lastpost time::attr(datetime)").extract_first()
+            meta["page"] = 0
 
             # yield{"nbPosts":nbPost,"nbView":nbViews,"title":title,"linkTopic":linkTopic,"datePost":datePost,"lastUpdate":lastUpdate}
             yield Request("https://forum.booknode.com"+linkTopic[1:], callback=self.parse_topic,dont_filter=True,meta=meta)
@@ -32,7 +33,7 @@ class BooknodedystopieSpider(scrapy.Spider):
     
     def parse_topic(self, response):
         topicTitle =  response.css(".topic-title  a::text").extract_first()
-
+        
         if not response.meta.get("lastPostId") == None :
 
             nbPost = int(response.meta.get("lastPostId"))

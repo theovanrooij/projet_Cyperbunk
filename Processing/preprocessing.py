@@ -20,6 +20,11 @@ from french_lefff_lemmatizer.french_lefff_lemmatizer import FrenchLefffLemmatize
 # nltk.download('words')
 # nltk.download('wordnet')
 
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('words')
+nltk.download('wordnet')
+
 # English Pre-processing
 stopwords = nltk.corpus.stopwords.words('english')
 Ewords = set(nltk.corpus.words.words())
@@ -46,13 +51,37 @@ def Preprocess_list_of_English_Sentence(listofSentence):
 
     return preprocess_list
 
-# French Pre-processing
-french_stopwords = nltk.corpus.stopwords.words('french')
-Fwords = set(line.strip() for line in open('./dictionnaire.txt'))
-Frenchlemmatizer = FrenchLefffLemmatizer()
+# Define English Pre-processing Function
+def Preprocess_English_Sentence(sentence):
+    
+   
+    
+    stopwords = nltk.corpus.stopwords.words('english')
+    Ewords = set(nltk.corpus.words.words())
+    Englishlemmatizer = WordNetLemmatizer()
+        
+    sentence_w_punct = "".join([i.lower() for i in sentence if i not in string.punctuation + '”“'])
+
+    sentence_w_num = ''.join(i for i in sentence_w_punct if not i.isdigit())
+
+    tokenize_sentence = nltk.tokenize.word_tokenize(sentence_w_num)
+
+    words_w_stopwords = [i for i in tokenize_sentence if i not in stopwords]
+
+    words_lemmatize = (Englishlemmatizer.lemmatize(w) for w in words_w_stopwords)
+
+    sentence_clean = ' '.join(w for w in words_lemmatize if w.lower() in Ewords or not w.isalpha())
+
+    return sentence_clean
+
 
 # Define English Pre-processing Function
 def Preprocess_list_of_French_Sentence(listofSentence):
+    # French Pre-processing
+    french_stopwords = nltk.corpus.stopwords.words('french')
+    Fwords = set(line.strip() for line in open('./dictionnaire.txt'))
+    Frenchlemmatizer = FrenchLefffLemmatizer()
+    
     preprocess_list = []
     for sentence in listofSentence :
         

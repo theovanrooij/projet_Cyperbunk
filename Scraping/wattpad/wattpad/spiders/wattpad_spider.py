@@ -24,8 +24,9 @@ class WattpadStoriesSpider(scrapy.Spider):
     # start_urls = ['http://wattpad.com/story/250829786','http://wattpad.com/story/298890633']
 
     
+    # start_urls = ["https://www.wattpad.com/stories/dystopia"]
     # start_urls = ["https://www.wattpad.com/stories/humour"]
-    start_urls = ["https://www.wattpad.com/stories/horreur"]
+    start_urls = ["https://www.wattpad.com/stories/horror"]
     # start_urls = ["https://www.wattpad.com/stories/vampire"] 
     # start_urls = ["https://www.wattpad.com/stories/thriller"]
     # start_urls = ["https://www.wattpad.com/stories/crime"]

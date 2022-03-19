@@ -13,7 +13,7 @@ import time
 class SpideTagSpider(scrapy.Spider):
     name = 'spideTag'
     allowed_domains = ['www.babelio.com/']
-    start_urls = ['https://www.babelio.com/livres-/cyberpunk/186']
+    start_urls = ['https://www.babelio.com/livres-/cyberpunk/186?page=8']
     #https://www.babelio.com/livres-/cyberpunk/186
     #https://www.babelio.com/livres/Gibson-Comte-Zero/1358640
     #https://www.babelio.com/livres/Stephenson-Le-samourai-virtuel/927389
@@ -21,36 +21,36 @@ class SpideTagSpider(scrapy.Spider):
     #https://www.babelio.com/auteur/David-Bessis/56884
     #https://www.babelio.com/livres/Stephenson-Le-samourai-virtuel/927389/critiques
     #https://www.babelio.com/auteur/-Anonyme/3186/citations
-    start_urls=["https://www.babelio.com/livres/Bennett-The-Founders-trilogy-tome-1--Les-Maitres-enlumine/1301785"]
+    # start_urls=["https://www.babelio.com/livres/Bennett-The-Founders-trilogy-tome-1--Les-Maitres-enlumine/1301785"]
     custom_settings = {
         'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0',
     }
 
     def __init__(self):
-        for i in range(2,8) :
-            self.start_urls.append("https://www.babelio.com/livres-/cyberpunk/186"+"?page="+str(i))
+        settings = get_project_settings()
+        driver_path = settings['CHROME_DRIVER_PATH']
+        options = webdriver.ChromeOptions()
+        options.headless = True
+        self.driver = webdriver.Chrome(driver_path, options=options)
+    #     for i in range(2,8) :
+    #         self.start_urls.append("https://www.babelio.com/livres-/cyberpunk/186"+"?page="+str(i))
 
 
     def parse(self, response):
         for linkBook in response.css(".list_livre") :
             yield Request("https://www.babelio.com"+linkBook.css("a::attr(href)").extract_first(), callback=self.parse_book,dont_filter=True)
-    pass
 
 
     def parse_book(self, response):
-        settings = get_project_settings()
-        driver_path = settings['CHROME_DRIVER_PATH']
-        options = webdriver.ChromeOptions()
-        options.headless = True
-        driver = webdriver.Chrome(driver_path, options=options)
-        driver.get(response.url)
-        driver.maximize_window()
+        
+        self.driver.get(response.url)
+        self.driver.maximize_window()
         js = response.css("#d_bio a::attr(onclick)").extract_first()
 
         if js :
-            driver.execute_script(js)
+            self.driver.execute_script(js)
             time.sleep(2)
-        page_source = driver.page_source
+        page_source = self.driver.page_source
 
         selector = Selector(text=page_source) # Load source code in a selector
 

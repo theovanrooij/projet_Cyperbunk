@@ -25,10 +25,10 @@ class WattpadStoriesSpider(scrapy.Spider):
 
     
     # start_urls = ["https://www.wattpad.com/stories/humour"]
-    # start_urls = ["https://www.wattpad.com/stories/horreur"]
+    start_urls = ["https://www.wattpad.com/stories/horreur"]
     # start_urls = ["https://www.wattpad.com/stories/vampire"] 
     # start_urls = ["https://www.wattpad.com/stories/thriller"]
-    start_urls = ["https://www.wattpad.com/stories/crime"]
+    # start_urls = ["https://www.wattpad.com/stories/crime"]
     # start_urls = ["https://www.wattpad.com/stories/romance"]
     
     # start_urls = ["https://www.wattpad.com/stories/cyberpunk"]

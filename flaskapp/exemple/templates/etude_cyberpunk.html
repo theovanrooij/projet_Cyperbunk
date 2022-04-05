@@ -1,0 +1,37 @@
+<!--Etude du cyberpunk : par année, nuages de mots et graphiques, évolution du nombres de commentaires-->
+
+{% extends "base.html" %} <!--reprend le contenu de la template base.html-->
+
+
+{% block body %} 
+
+<div class="jumbotron text-center">
+    <h2>Etude du Cyberpunk</h2>
+</div>
+
+<br><br>
+<p class="etude-cyberpunk-p">
+    Qu'est-ce que le Cyberpunk ?
+    <br><br>
+    Le Cyberpunk xxxxxxx... 
+    <br><br>
+    Est-ce que le cyberpunk est de nouveau un centre d'intérêt une culture, se développe-t-il à nouveau notamment sur les réseaux ? 
+    <br>Comment pouvons-nous caractériser ce mouvement et quelle est son évolution ?
+    <br><br><br>
+</p>
+
+
+
+<h4>Graphiques montrant l'évolution des utilisateurs des différents forums :</h4>
+<ul class="list-group">
+    {% for article in articles %}
+        <li class="list-group-item"><a href="articles/{{article.id}}">{{article.title}}</a></li>
+    {% endfor %}
+</ul>
+
+   
+{% include 'includes/_dropdown.html' %}
+<div class="container">
+ 
+
+{% endblock %} 

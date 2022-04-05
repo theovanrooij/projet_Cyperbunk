@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Projet Cyberpunk</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+
+    <body style ="background-color: rgb(184, 173, 230);">
+        
+        {% include 'includes/_navbar.html' %}
+        {% include 'includes/_dropdown.html' %}
+        <div class="container">
+        {% block body %} {% endblock %}
+         
+
+        <footer><p>Projet mené par BOUREFIS Amine, DANG Méline, HE Mingzhi, LI Hao, VAN ROOIJ Théo et ZHU Zhenyu. Avec l'aide de notre professeur monsieur Jean-François BERCHER et de Emmy Schwimmer.  - <a href="https://github.com/theovanrooij/projet_Cyperbunk">GitHub</a></p></footer>
+        </div>
+      
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </body>
+</html>

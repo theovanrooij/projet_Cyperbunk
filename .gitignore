@@ -1,2 +1,4 @@
 __pycache__
-Scraping/wattpad/*.json
+*.ipynb_checkpoints/
+*.json
+*.csv

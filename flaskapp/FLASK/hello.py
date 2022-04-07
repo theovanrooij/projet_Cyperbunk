@@ -1,13 +1,17 @@
 from flask import Flask, flash, send_from_directory,redirect, render_template, request, url_for
 from graphsforums import Articles
+import os
+
 app = Flask(__name__)
 
 Articles = Articles()
+
 
 #   ### Gestion des pages web
 
 @app.route('/')
 def accueil():
+    
     return render_template('accueil.html')
 
 @app.route('/etude-cyberpunk')

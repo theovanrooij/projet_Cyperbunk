@@ -60,7 +60,7 @@ def k_determin():
     plt.ylabel("error")
     plt.legend()
     plt.show()
-    plt.savefig
+    plt.savefig # in step 1 you can use this to print the score for each K in function.
 
 def main(list_test):
     dataset = list_test
@@ -80,5 +80,5 @@ count = Counter()
 for word in list_test:
     count[word] += 1
 
-#k_determin()
-main(list_test)
+#k_determin() step 1 : to calculate the best K to do the cluster
+main(list_test) # step 2 : Use the K to Train the model and calculate the score

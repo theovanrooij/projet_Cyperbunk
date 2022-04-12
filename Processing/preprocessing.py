@@ -30,6 +30,8 @@ stopwords = nltk.corpus.stopwords.words('english')
 Ewords = set(nltk.corpus.words.words())
 Englishlemmatizer = WordNetLemmatizer()
 
+Fwords = set(line.strip() for line in open('../Processing/dictionnaire.txt',encoding="utf-8"))
+
 # Define English Pre-processing Function
 def Preprocess_list_of_English_Sentence(listofSentence):
     preprocess_list = []
@@ -100,4 +102,26 @@ def Preprocess_list_of_French_Sentence(listofSentence):
         preprocess_list.append(sentence_clean)
 
     return preprocess_list
+    
+# Define English Pre-processing Function
+def Preprocess_French_Sentence(sentence):
+    # French Pre-processing
+    french_stopwords = nltk.corpus.stopwords.words('french')
+    
+    Frenchlemmatizer = FrenchLefffLemmatizer()
+    
+        
+    sentence_w_punct = "".join([i.lower() for i in sentence if i not in string.punctuation])
+
+    sentence_w_num = ''.join(i for i in sentence_w_punct if not i.isdigit())
+
+    tokenize_sentence = nltk.tokenize.word_tokenize(sentence_w_num)
+
+    words_w_stopwords = [i for i in tokenize_sentence if i not in french_stopwords]
+
+    words_lemmatize = (Frenchlemmatizer.lemmatize(w) for w in words_w_stopwords)
+
+    sentence_clean = ' '.join(w for w in words_lemmatize if w.lower() in Fwords or not w.isalpha())
+
+    return sentence_clean
     

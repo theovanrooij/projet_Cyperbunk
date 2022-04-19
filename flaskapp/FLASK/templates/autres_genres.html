@@ -5,9 +5,12 @@
 
 {% block body %} 
 
+
+
 <div class="jumbotron text-center">
     <h2>Autres genres</h2>
 </div>
+
 
 <br><br>
 <p class="autres-genres-p">
@@ -19,89 +22,59 @@
     <br><br><br>
 </p>
 
-<p class="romance-p"><h3>Cyberpunk en comparaison avec la Romance</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunkromance_cyber.jpg')}}"width=500><br><br>
-<p> Romance</p>
-<img src="{{url_for('static',filename='images/cyberpunkromance_romance.jpg')}}"width=500><br><br>
+<div class="forms">
+   {% include 'select_form.html' %}
 
-<p class="crime-p"><h3>Cyberpunk en comparaison avec le Crime</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunkcrime_cyber.jpg')}}"width=500><br><br>
-<p> Crime</p>
-<img src="{{url_for('static',filename='images/cyberpunkcrime_crime.jpg')}}"width=500><br><br>
-
-<p class="space-p"><h3>Cyberpunk en comparaison avec le Space</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunkspace_cyber.jpg')}}"width=500><br><br>
-<p> Space</p>
-<img src="{{url_for('static',filename='images/cyberpunkspace_space.jpg')}}"width=500><br><br>
-
-<p class="thriller-p"><h3>Cyberpunk en comparaison avec le Thriller</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunkthriller_cyber.jpg')}}"width=500><br><br>
-<p> Thriller</p>
-<img src="{{url_for('static',filename='images/cyberpunkthriller_thriller.jpg')}}"width=500><br><br>
-
-<p class="vampire-p"><h3>Cyberpunk en comparaison avec le Vampire</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunkvampire_cyber.jpg')}}"width=500><br><br>
-<p> Vampire</p>
-<img src="{{url_for('static',filename='images/cyberpunkvampire_vampire.jpg')}}"width=500><br><br>
-
-<p class="fantasy-p"><h3>Cyberpunk en comparaison avec la Fantasy</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunkfantasy_cyber.jpg')}}"width=500><br><br>
-<p> Fantasy</p>
-<img src="{{url_for('static',filename='images/cyberpunkfantasy_fantasy.jpg')}}"width=500><br><br>
-
-<p class="sciencefantasy-p"><h3>Cyberpunk en comparaison avec la Science Fantasy</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunksciencefantasy_cyber.jpg')}}"width=500><br><br>
-<p> Science Fantasy</p>
-<img src="{{url_for('static',filename='images/cyberpunksciencefantasy_sciencefantasy.jpg')}}"width=500><br><br>
-
-<p class="steampunk-p"><h3>Cyberpunk en comparaison avec le Steampunk</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunksteampunk_cyber.jpg')}}"width=500><br><br>
-<p> Steampunk</p>
-<img src="{{url_for('static',filename='images/cyberpunksteampunk_steampunk.jpg')}}"width=500><br><br>
-
-<p class="horreur-p"><h3>Cyberpunk en comparaison avec l'Horreur</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunkhorreur_cyber.jpg')}}"width=500><br><br>
-<p> Horreur</p>
-<img src="{{url_for('static',filename='images/cyberpunkhorreur_horreur.jpg')}}"width=500><br><br>
-
-<p class="dystopie-p"><h3>Cyberpunk en comparaison avec la Dystopie</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunkdystopie_cyber.jpg')}}"width=500><br><br>
-<p> Dystopie</p>
-<img src="{{url_for('static',filename='images/cyberpunkdystopie_dystopie.jpg')}}"width=500><br><br>
-
-<p class="humour-p"><h3>Cyberpunk en comparaison avec l'Humour</h3>
-</p>
-<p> Cyberpunk</p>
-<img src="{{url_for('static',filename='images/cyberpunkhumour_cyber.jpg')}}"width=500><br><br>
-<p> Humour</p>
-<img src="{{url_for('static',filename='images/cyberpunkhumour_humour.jpg')}}"width=500><br><br>
+    <form action = "http://localhost:5000/prediction" method = "POST" 
+            enctype = "multipart/form-data" class="file_form">
+        <input type = "file" name = "file" />
+        <input type = "submit"/>
+    </form> 
+</div>
 
 
+
+<div class="comparaison_container">
+    <h3 class="romance-p">Cyberpunk en comparaison avec {{genre}}</h3>
+    <div class="sub_container">
+        <div class="genre_1">
+            <h4> Cyberpunk</h4>
+            <img src="/static/images/{{genre}}_Cyberpunk.jpg"width=500>
+        </div>
+        
+        <div class="genre_2">
+            <h4> {{genre}}</h4>
+            <img src="/static/images/{{genre}}_{{genre}}.jpg"width=500>
+        </div>
+        
+    </div>
+    
+    
+</div>
+
+<style>
+    .sub_container {
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+    }
+    .comparaison_container {
+        margin-bottom: 50px;
+    }
+    .forms,.file_form{
+        display: flex;
+        justify-content: space-between;
+    }
+    .file_form{
+        width: 400px;
+    }
+</style>
 
 <div class="charts">
     
     <div id='words' class='chart'></div>
 </div>
+
 
 <script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
 <script type='text/javascript'>

@@ -12,56 +12,55 @@ from preprocessing import Preprocess_English_Sentence
 from werkzeug.utils import secure_filename
 
  # # save the model to disk
-filename = 'finalized_model.sav'
-model = pickle.load(open(filename, 'rb'))
+# filename = 'lasso_final_interpret.sav'
 
-model_global = model.explain_global(name="Logistic Regression")
-
-df = pd.DataFrame({"Word":model_global.data()["names"],"Score":model_global.data()["scores"]},index=model_global.data()["names"])
-
-df["Abs_score"]=df["Score"].apply(abs)
-
-df["Color"] = df["Score"].apply(lambda x : 1 if x > 0 else 0)
-
-df = df.sort_values("Abs_score",ascending=True)
-
-
-data = df[df["Score"]!=0]
-fig = px.bar(data,  y='Word',x='Score', color="Color", orientation='h',
-            color_continuous_scale='Bluered_r')
-fig.update(layout_coloraxis_showscale=False)
-fig.update_yaxes(range=[len(data)-60, len(data)])
-fig.update_layout(title={"text":"Récapitulatif des mots significatif du cyberpunk (bleu) contre ceux s'en éloignant"})
-
-
-
-# import shap
-# filename = 'gradient_boosting.sav'
 # model = pickle.load(open(filename, 'rb'))
 
+import joblib
 
-# explainer = shap.TreeExplainer(model)
-# shap_values = explainer.shap_values(X_test_bag_resample)
+# filename="lasso_final_interpret.pkl"
+# model = joblib.load(filename)
 
-# mean_shap = shap_values.mean(axis=0)
-# res = {vocab[i]: mean_shap[i] for i in range(len(vocab))}
 
-# df_shap = pd.DataFrame.from_dict(res,orient="index").reset_index().rename(columns={0:"Score"})
 
-# df_shap["Abs_score"]=df_shap["Score"].apply(abs)
 
-# df_shap["Color"] = df_shap["Score"].apply(lambda x : 1 if x > 0 else 0)
+import numpy as np
+import json
+from sklearn.linear_model import LogisticRegression
 
-# df_shap = df_shap.sort_values("Abs_score",ascending=True)
+def logistic_regression_to_json(lrmodel, file=None):
+    if file is not None:
+        serialize = lambda x: json.dump(x, file)
+    else:
+        serialize = json.dumps
+    data = {}
+    data['init_params'] = lrmodel.get_params()
+    data['model_params'] = mp = {}
+    for p in ('coef_', 'intercept_','classes_', 'n_iter_'):
+        mp[p] = getattr(lrmodel, p).tolist()
+    return serialize(data)
 
-# from IPython.display import HTML
-# import plotly.express as px
-# data = df_shap[df_shap["Score"]!=0]
-# fig_tree = px.bar(data,  y='index',x='Score', color="Color", orientation='h',
-#             color_continuous_scale='Bluered_r')
-# fig_tree.update(layout_coloraxis_showscale=False)
-# fig.update_yaxes(range=[len(data)-60, len(data)])
-# fig_tree.update_layout(title={"text":"Récapitulatif des mots significatif du cyberpunk (touge) contre ceux s'en éloignant"})
+def logistic_regression_from_json(jstring):
+    data = json.loads(jstring)
+    model = LogisticRegression(**data['init_params'])
+    for name, p in data['model_params'].items():
+        setattr(model, name, np.array(p))
+    return model
+
+
+with open("lasso.txt",'r') as f:
+  model = logistic_regression_from_json(f.read())
+
+with open("graph_coef.txt",'r') as f:
+  graphJSON_genres = f.read()
+
+# filename = 'graph_coeff.pkl'
+# fig = joblib.load(filename)
+# graphJSON_genres = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+# import pickle
+# # save the model to disk
+# filename = 'gradient_boosting.sav'
+# model = pickle.load(open(filename, 'rb'))
 
 
 from sklearn.feature_extraction.text import CountVectorizer
@@ -70,7 +69,6 @@ with open("vocab.txt", "r",encoding="utf-8")as f :
     vectorizer = CountVectorizer(max_features=3000,vocabulary=vocab,stop_words="english",binary=True)
 
 
-graphJSON_genres = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
 
 
 app = Flask(__name__)
@@ -101,6 +99,10 @@ def etude_cyberpunk():
 @app.route('/sous-genres')
 def sous_genres():
     return render_template('sous_genres.html')
+
+@app.route('/babelio')
+def babelio():
+    return render_template('babelio.html')
 
 @app.route('/autres-genres')
 def autres_genres():

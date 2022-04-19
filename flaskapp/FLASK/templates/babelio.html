@@ -1,0 +1,27 @@
+<!--Etude du cyberpunk : par année, nuages de mots et graphiques, évolution du nombres de commentaires-->
+
+{% extends "base.html" %} <!--reprend le contenu de la template base.html-->
+
+
+{% block body %} 
+
+<div class="jumbotron text-center">
+    <h2>Etude de Babelio</h2>
+</div>
+
+<br><br>
+<p class="etude-cyberpunk-p">
+   Scrap babelio + affichage nombre de bouquin par année
+    
+</p>
+
+
+
+<h4>Graphiques montrant l'évolution des sorties de livres par années :</h4>
+
+<img src="{{url_for('static',filename='images/babelio.png')}}"width=750>
+
+
+{% endblock %} 
+
+

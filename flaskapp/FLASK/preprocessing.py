@@ -20,10 +20,10 @@ from french_lefff_lemmatizer.french_lefff_lemmatizer import FrenchLefffLemmatize
 # nltk.download('words')
 # nltk.download('wordnet')
 
-nltk.download('stopwords')
-nltk.download('punkt')
-nltk.download('words')
-nltk.download('wordnet')
+# nltk.download('stopwords')
+# nltk.download('punkt')
+# nltk.download('words')
+# nltk.download('wordnet')
 
 # English Pre-processing
 stopwords = nltk.corpus.stopwords.words('english')

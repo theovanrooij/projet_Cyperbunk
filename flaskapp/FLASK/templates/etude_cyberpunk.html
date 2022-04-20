@@ -13,7 +13,7 @@
 <p class="etude-cyberpunk-p">
     Qu'est-ce que le Cyberpunk ?
     <br><br>
-    Le Cyberpunk xxxxxxx... 
+    <!-- Le Cyberpunk xxxxxxx...  -->
     <br><br>
     Est-ce que le cyberpunk est de nouveau un centre d'intérêt une culture, se développe-t-il à nouveau notamment sur les réseaux ? 
     <br>Comment pouvons-nous caractériser ce mouvement et quelle est son évolution ?
@@ -26,18 +26,47 @@
 <h4>Graphiques montrant l'évolution des utilisateurs des différents forums :</h4>
 <ul class="list-group">
     {% for article in articles %}
-        <li class="list-group-item"><a href="articles/{{article.id}}">{{article.title}}</a></li>
+        <li class="list-group-item"><a href="{{article.url}}">{{article.title}}</a></li>
     {% endfor %}
     
 </ul>
 
 {% include 'select_form.html' %}
 
-<h4 class="{{forumName}}-p">{{forumName}}</h4>
-<img src="/static/images/{{forum}}.png"width=750>
 
 
+<div class="comparaison_container">
+    <h3 class="{{forumName}}-p">{{forumName}}</h3>
+    <div class="sub_container">
+        <div class="genre_1">
+            <h4> Nombre de posts</h4>
+            <img src="/static/images/{{forum}}.png"width=500>
+        </div>
+        <div class="genre_2">
+            <h4> Analyse des sentiments</h4>
+            <img src="/static/images/{{forum}}_sentiment.png"width=500>
+        </div>
+    </div>
+</div>
 
+
+<style>
+    .sub_container {
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+    }
+    .comparaison_container {
+        margin-bottom: 50px;
+    }
+    .forms,.file_form{
+        display: flex;
+        justify-content: space-between;
+    }
+    .file_form{
+        width: 400px;
+    }
+</style>
 
 {% endblock %} 
 

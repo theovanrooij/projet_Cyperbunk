@@ -30,26 +30,12 @@
     {% endfor %}
     
 </ul>
-<p class="booknode-p">Booknode
-</p>
-<img src="{{url_for('static',filename='images/booknode.jpg')}}"width=750><br><br>
-<p class="cyberpunkforum-p">Cyberpunkforum
-</p>
-<img src="{{url_for('static',filename='images/cyberpunkforum.jpg')}}"width=750><br><br>
-<p class="reddit-p">Reddit
-</p>
-<img src="{{url_for('static',filename='images/reddit.jpg')}}"width=750><br><br>
-<img src="{{url_for('static',filename='images/reddit_data2.jpg')}}"width=750><br><br>
-<img src="{{url_for('static',filename='images/reddit_data3.jpg')}}"width=750><br><br>
-<p class="sffchronicles-p">SFFChronicles
-</p>
-<img src="{{url_for('static',filename='images/sffchronicles.jpg')}}"width=750><br><br>
-<p class="sffworld-p">SFFWorld
-</p>
-<img src="{{url_for('static',filename='images/sffworld.jpg')}}"width=750><br><br>
-<p class="usenet-p">Usenet
-</p>
-<img src="{{url_for('static',filename='images/usenet.jpg')}}"width=750><br><br>
+
+{% include 'select_form.html' %}
+
+<h4 class="{{forumName}}-p">{{forumName}}</h4>
+<img src="/static/images/{{forum}}.png"width=750>
+
 
 
 

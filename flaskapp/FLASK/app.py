@@ -7,7 +7,7 @@ import plotly_express as px
 # Load model
 import pickle
 
-from forms import genreForm
+from forms import genreForm,forumForm
 from preprocessing import Preprocess_English_Sentence
 from werkzeug.utils import secure_filename
 
@@ -94,7 +94,21 @@ def accueil():
 
 @app.route('/etude-cyberpunk')
 def etude_cyberpunk():
-    return render_template('etude_cyberpunk.html', articles = Articles )
+    form = forumForm()
+
+    forum = request.args.get('input')
+    if forum == None :
+        forum = "booknode"
+    forumDict={
+        "booknode":"Booknode",
+    "sffworld":"SFFworld",
+    "cyberpunkforum":"Cyberpunk Forum",
+    "usenet":"Usenet",
+    "sffchronicles":"SFFChronicles",
+    "reddit":"Reddit",
+    }
+    forumName = forumDict[forum]
+    return render_template('etude_cyberpunk.html', articles = Articles,form=form,forum=forum,forumName=forumName )
 
 @app.route('/sous-genres')
 def sous_genres():
@@ -106,7 +120,6 @@ def babelio():
 
 @app.route('/autres-genres')
 def autres_genres():
-
     form = genreForm()
 
     genre = request.args.get('input')

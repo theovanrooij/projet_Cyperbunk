@@ -10,9 +10,6 @@ import nltk
 import string
 # English Preprocessing Base
 from nltk.stem import WordNetLemmatizer
-# French Preprocessing Base     MAKE SURE GIT AND PIP HAS BEEN INSTALLED 
-# AND RUN pip install git+https://github.com/ClaudeCoulombe/FrenchLefffLemmatizer.git IN CMD
-from french_lefff_lemmatizer.french_lefff_lemmatizer import FrenchLefffLemmatizer
 
 # Run the following code while you run the whole programming
 # nltk.download('stopwords')

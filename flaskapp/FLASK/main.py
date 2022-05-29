@@ -8,20 +8,18 @@ from werkzeug.utils import secure_filename
 import os
 
 import numpy as np
-import json
 from sklearn.linear_model import LogisticRegression
 
-def logistic_regression_to_json(lrmodel, file=None):
-    if file is not None:
-        serialize = lambda x: json.dump(x, file)
-    else:
-        serialize = json.dumps
-    data = {}
-    data['init_params'] = lrmodel.get_params()
-    data['model_params'] = mp = {}
-    for p in ('coef_', 'intercept_','classes_', 'n_iter_'):
-        mp[p] = getattr(lrmodel, p).tolist()
-    return serialize(data)
+import plotly
+import plotly_express as px
+import pandas as pd
+
+from sklearn.feature_extraction.text import CountVectorizer
+
+
+from interpret.glassbox import LogisticRegression as LR_interpret
+
+
 
 def logistic_regression_from_json(jstring):
     data = json.loads(jstring)
@@ -30,20 +28,27 @@ def logistic_regression_from_json(jstring):
         setattr(model, name, np.array(p))
     return model
 
-#Chargement du modèle
-with open("lasso.txt",'r') as f:
-  model = logistic_regression_from_json(f.read())
+def init_model() :
+    with open("vocab.txt", "r",encoding="utf-8")as f :
+        vocab = f.read().split("\n")
+        vectorizer = CountVectorizer(max_features=3000,vocabulary=vocab,stop_words="english",binary=True)
 
-#Chargement du graph
-with open("graph_coef.txt",'r') as f:
-  graphJSON_genres = f.read()
+    #Chargement du modèle
+    with open("lasso.txt",'r') as f:
+        lr = logistic_regression_from_json(f.read())
+
+    model = LR_interpret()
+    model.sk_model_ = lr
+    model.feature_names = vocab
+    return model,vectorizer
+
+def load_explain_graph():
+    #Chargement du graph
+    with open("graph_coef.txt",'r') as f:
+        return f.read()
 
 
 
-from sklearn.feature_extraction.text import CountVectorizer
-with open("vocab.txt", "r",encoding="utf-8")as f :
-    vocab = f.read().split("\n")
-    vectorizer = CountVectorizer(max_features=3000,vocabulary=vocab,stop_words="english",binary=True)
 
 
 
@@ -59,7 +64,23 @@ def getPredictionFromNumber(number):
     else : 
         return "Not Cyberpunk"
 
+def getFigurePredict(model_local):
+    df = pd.DataFrame({"Word":model_local.data(0)["names"],"Score":model_local.data(0)["scores"]},index=model_local.data(0)["names"])
+    fig = None
+    df["Abs_score"]=df["Score"].apply(abs)
 
+    df["Color"] = df["Score"].apply(lambda x : 1 if x > 0 else 0)
+
+    df = df.sort_values("Abs_score",ascending=True)
+    
+    data = df[df["Score"]!=0]
+    fig = px.bar(data,  y='Word',x='Score', color="Color", orientation='h',color_continuous_scale='Bluered_r')
+    fig.update(layout_coloraxis_showscale=False)
+    
+    fig.update_xaxes(range=[-2.7, 2.99])
+    fig.update_yaxes(range=[len(data)-60, len(data)])
+    fig.update_layout(title={"text":"Récapitulatif des mots présent dans le texte pesant pour le cyberpunk (bleu) contre ceux contre"})
+    return fig
 
 
 #   ### Gestion des pages web
@@ -95,15 +116,20 @@ def sous_genres():
 def babelio():
     return render_template('babelio.html')
 
-@app.route('/autres-genres')
+@app.route('/autres-genres', methods= ['GET'])
 def autres_genres():
+    global graphJSON_genres
+
     form = genreForm()
 
+    error  = request.args.get('extension')
+
     genre = request.args.get('input')
+    
     if genre == None :
         genre = "All_genre"
 
-    return render_template('autres_genres.html',form=form,graphJSON_genres=graphJSON_genres,genre=genre)
+    return render_template('autres_genres.html',form=form,graphJSON_genres=graphJSON_genres,genre=genre,error=error)
 
     # return render_template('autres_genres.html')
 
@@ -114,29 +140,38 @@ def upload_file():
 
 @app.route('/prediction', methods = ['GET', 'POST'])
 def prediction():
+    global model
     if request.method == 'POST':
         f = request.files['file']
         filename = secure_filename(f.filename)
-        f.save(filename)
+        if filename.split(".")[1] != "txt":
+            return redirect("/autres-genres?extension=wrong", code=302)
+        else :
+            f.save(filename)
 
         with open(filename,encoding="utf-8") as fp:
             file_content = fp.read()
-            process_content = Preprocess_English_Sentence(file_content)
+        process_content = Preprocess_English_Sentence(file_content)
 
-        os.remove(filename)
+       
 
         matrix = vectorizer.fit_transform([process_content])
-        probas = model.predict_proba(matrix.todense())
-        if probas[0][1] > .5 :
-            prediction = "Cyberpunk"
-            proba = probas[0][1]
-        else : 
-            prediction = "Not Cyberpunk"
-            proba = probas[0][0]
+
+
+        model_local = model.explain_local(pd.DataFrame(matrix.todense()), name="Logistic Regression")
+        proba = model_local.data(0)["perf"]["predicted_score"]
         proba = round(proba*100,2)
-        return render_template('prediction.html',prediction=prediction,proba=proba)
+        prediction = getPredictionFromNumber(model_local.data(0)["perf"]["predicted"])
 
+        fig = getFigurePredict(model_local)
 
+        Graph_predict= json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+        os.remove(filename)
+        return render_template('prediction.html',prediction=prediction,proba=proba, Graph_predict=Graph_predict)
+
+model,vectorizer = init_model()
+graphJSON_genres = load_explain_graph()
 if __name__ == '__main__':
+    
     app.run(debug=True) #pour que les changements se mettent à jour en théorie??
     

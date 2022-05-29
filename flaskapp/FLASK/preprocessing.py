@@ -21,6 +21,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('words')
 nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 # English Pre-processing
 stopwords = nltk.corpus.stopwords.words('english')

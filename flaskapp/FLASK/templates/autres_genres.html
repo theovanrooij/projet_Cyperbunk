@@ -20,14 +20,18 @@
     Des nuages de mots permettent d'afficher les mots clés caractéristiques de la différence entre le Cyberpunk avec ces genres : Romance, Thriller, Crime, Space, Vampire, Fantasy, ScienceFantasy, Steampunk, Horreur, Dystopie et Humour.
     <br> 
     <br>
-    Il est aussi possible de soumettre un fichier texte afin d'identifier son genre (avec une précision de 88%).
+    Il est aussi possible de soumettre un fichier .txt en anglais afin d'identifier son genre (avec une précision de 88%).
     <br><br><br>
 </p>
+
+{% if error %}
+<p style="color: red;"><b>L'extension du fichier soumis est incorrecte. Un fichier ".txt" est nécessaire.</b> </p>
+{% endif %}
 
 <div class="forms">
    {% include 'select_form.html' %}
 
-    <form action = "http://localhost:5000/prediction" method = "POST" 
+    <form action = "/prediction" method = "POST" 
             enctype = "multipart/form-data" class="file_form">
         <input type = "file" name = "file" />
         <input type = "submit"/>

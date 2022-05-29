@@ -27,9 +27,7 @@ class CyberpunkforumsspiderSpider(scrapy.Spider):
             yield scrapy.Request("https://cyberpunkforums.com/"+nextPage, callback=self.parse,dont_filter=True)
 
     def parse_topic(self, response):
-
         for  post in response.css(".blockpost"):
-
             # On vient juste extraire le premier blockquote, on peut remonter les autres ensuitie si nécessaire
             yield { "postId":post.css("h2 a::attr(href)").extract_first().split("#")[1],
                 "postNb":post.css(".conr::text").extract_first()[1:],
@@ -41,9 +39,7 @@ class CyberpunkforumsspiderSpider(scrapy.Spider):
                 "categorie":response.css(".crumbs a::text").extract()[1],
                 "topic":response.css(".crumbs a::text").extract()[2]
             }
-
         nextPage = response.css("a[rel='next']::attr(href)").extract_first()
         if nextPage  :
             yield scrapy.Request("https://cyberpunkforums.com/"+nextPage, callback=self.parse_topic,dont_filter=True)
             
-        pass

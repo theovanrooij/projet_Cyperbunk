@@ -5,7 +5,6 @@ from wtforms.validators import DataRequired
 class genreForm(Form):
     genre_possible = [("All_genre","Tous les genres"),
     ("Romance","Romance"),
-    ("Thriller","Thriller"),
     ("Crime","Crime"),
     ("Space","Space"),
     ("Thriller","Thriller"),

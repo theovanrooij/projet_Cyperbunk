@@ -9,11 +9,9 @@ class BooknodedystopieSpider(scrapy.Spider):
         'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0',
     }
 
-    def parse(self, response):
-        for post in  response.css(".forumbg:not(.announcement) .topiclist.topics dl"):
-            # yield{"post":post}
-            meta = dict()
-            
+    def parse(self, response):    
+        for post in response.css(".forumbg:not(.announcement) .topiclist.topics dl"):
+            meta = {dict()}
             meta["nbPost"] =  post.css(".posts::text").extract_first()
             meta["nbViews"] = post.css(".views::text").extract_first()
             linkTopic = post.css(".topictitle::attr(href)").extract_first()
@@ -21,14 +19,14 @@ class BooknodedystopieSpider(scrapy.Spider):
             meta["datePost"] = post.css(".topic-poster time::attr(datetime)").extract_first()
             meta["lastUpdate"] = post.css(".lastpost time::attr(datetime)").extract_first()
             meta["page"] = 0
-
-            # yield{"nbPosts":nbPost,"nbView":nbViews,"title":title,"linkTopic":linkTopic,"datePost":datePost,"lastUpdate":lastUpdate}
-            yield Request("https://forum.booknode.com"+linkTopic[1:], callback=self.parse_topic,dont_filter=True,meta=meta)
+            yield Request(f"https://forum.booknode.com{linkTopic[1:]}", callback=self.parse_topic, 
+                            dont_filter=True, meta=meta)
 
 
         nextPage = response.css(".next a::attr(href)").extract_first()
-        if nextPage  :
-            yield Request("https://forum.booknode.com"+nextPage[1:], callback=self.parse,dont_filter=True)
+        if nextPage:
+            yield Request(f"https://forum.booknode.com{nextPage[1:]}", 
+                            callback=self.parse, dont_filter=True)
  
     
     def parse_topic(self, response):
@@ -44,27 +42,15 @@ class BooknodedystopieSpider(scrapy.Spider):
             nbPost += 1
             datePost = post.css("time::attr(datetime)").extract_first()
             content = "".join(post.css(".content ::text").extract()) 
-
-
             links = post.css(".content ::attr(href)").extract()
             blockquotes = post.css("blockquote") 
-            quote_list = []
 
-            for blockquote in blockquotes :
-                quote = "".join(blockquote.css("::text").extract())
-                quote_list.append(quote)
-
-            for quote in quote_list :
-                content= content.replace(quote,"[BLOCKQUOTE]")
-
+            #Extraction de la citation
             quote_list=[]
             for blockquote in blockquotes :
                 subquote = "".join(blockquote.css(".uncited ::text").extract())
                 quote = "".join(blockquote.css("::text").extract())
-                
-
                 if subquote != "":
-
                     quote = "".join(blockquote.css("::text").extract())
                     if (quote != subquote):
                         quote_list.append(quote.replace(subquote,"[BLOCKQUOTE]"))
@@ -74,7 +60,8 @@ class BooknodedystopieSpider(scrapy.Spider):
                    quote_list.append(quote)
 
             img_link = post.css("img::attr(src)").extract()
-            yield  {"topicTitle": topicTitle,"commentID":post.css("::attr(id)").extract_first(),"datePost":datePost,"content":content,"links":links,"img_link":img_link,"blockquote":quote_list,
+            yield  {"topicTitle": topicTitle,"commentID":post.css("::attr(id)").extract_first(),"datePost":datePost,
+            "content":content,"links":links,"img_link":img_link,"blockquote":quote_list,
             "nbPostTopic":response.meta.get("nbPost"),"nbViewsTopic":response.meta.get("nbPost"),"topicId":response.meta.get("topicId"),
             "datePostTopic":response.meta.get("datePost"),"lastUpdateTopic":response.meta.get("lastUpdate")
             }

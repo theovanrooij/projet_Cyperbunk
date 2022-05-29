@@ -38,7 +38,7 @@ class WattpadStoriesSpider(scrapy.Spider):
     # start_urls = ["https://www.wattpad.com/stories/science-fantasy"]
     
 
-    login_url = 'https://www.wattpad.com/login'
+    
 
     custom_settings = {
         'ITEM_PIPELINES' : {
@@ -48,57 +48,38 @@ class WattpadStoriesSpider(scrapy.Spider):
 
     chapter_urls = []
 
+    login_url = 'https://www.wattpad.com/login'
     def __init__(self):
         settings = get_project_settings()
         driver_path = settings['CHROME_DRIVER_PATH']
         options = webdriver.ChromeOptions()
         options.headless = True
         self.driver = webdriver.Chrome(driver_path, options=options)
-
         self.driver.get(self.login_url)
         self.driver.maximize_window()
-        time.sleep(2)
-
+        # Closing the cookie banner
         button = self.driver.find_element_by_id("onetrust-accept-btn-handler")
-        
         # clicking on the button
         button.click()
         btn = self.driver.find_element_by_css_selector(".btn-block.btn-primary")
-
         btn.click()
-
-        time.sleep(2)
-
-        # On se connecte
+        # On se connecte en remplissant le formulaire
         username =self. driver.find_element_by_id("login-username")
         password =  self.driver.find_element_by_id("login-password")
-        username.send_keys("Amscoo")
-        password.send_keys("Projete4")
+        username.send_keys("USER")
+        password.send_keys("PASSWORD")
         self.driver.find_element_by_xpath("//input[@type='submit']").click()
 
     
     # method to login into the wattpad account
     def parse(self, response):
-
-        
-
         self.driver.get(response.url)
         page_source = self.driver.page_source
-
-
         selector = Selector(text=page_source)
-
-        print(selector.css("h4").extract())
-
-        time.sleep(3)
-
         button = self.driver.find_element_by_class_name("show-more")
-
-        try:
+        try: # Permet de scroll down la page
             while True:
-                
                 button.click()
-                time.sleep(1)
         except (ElementNotInteractableException):
             print("QUITTING!")
 
@@ -108,15 +89,13 @@ class WattpadStoriesSpider(scrapy.Spider):
         for itemDiv in selector.css(".browse-story-item"):
             ranking = itemDiv.css('.story-rank span ::text').extract_first()
             author = itemDiv.css('.on-navigate ::text').extract_first()
-
-            # Recup id de l'histoire et appelle parse_story
             link = itemDiv.css(".on-story-preview.cover::attr(href)").extract_first()
-            yield Request("http://wattpad.com"+link, callback=self.parse_story,dont_filter=True, meta = {"author":author,"ranking":ranking})
+            yield Request("http://wattpad.com"+link, callback=self.parse_story,
+            dont_filter=True, meta = {"author":author,"ranking":ranking})
 
 
     def parse_story(self, response):
         stats = response.css(".stats-value ::text").extract()
-        
         meta = {
             "story_title" : response.css(".story-info >.sr-only::text").extract_first(),
             "story_id" : response.url.split("/")[-1],
@@ -126,9 +105,11 @@ class WattpadStoriesSpider(scrapy.Spider):
             "first_update" : response.css(".story-badges .sr-only::text").extract_first()[-12:],
             "last_update" : response.css(".table-of-contents__last-updated strong::text").extract_first()
         }
-        for i,chapter in enumerate(response.css(".table-of-contents .story-parts__part::attr(href)").extract()):
+        for i,chapter in enumerate(
+            response.css(".table-of-contents .story-parts__part::attr(href)").extract() ):
             meta["chapter_id"] = i
-            yield Request("http://wattpad.com"+chapter, callback=self.parse_chapter,dont_filter=True, meta = meta)
+            yield Request("http://wattpad.com"+chapter, callback=self.parse_chapter,
+            dont_filter=True, meta = meta)
  
     
     def parse_chapter(self,response):

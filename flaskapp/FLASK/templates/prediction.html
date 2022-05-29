@@ -9,13 +9,23 @@
 </div>
 
 <br><br>
-<p class="sous-genres-p">
-    Prédiction : {{prediction}}
-    <br><br>
-     Probabitlité : {{proba}} %
-    <br> 
-    <br>
-    <br><br><br>
-</p>
+<div class="prediction"style="display:flex;justify-content:space-around;">
+    <p> Prédiction : {{prediction}}</p>
+   
+    <p>Probabitlité : {{proba}} %</p>     
+ 
+</div>
+
+<div class="charts" style="margin-bottom: 50px;">
+    
+    <div id='words' class='chart'></div>
+    <p>Notice : Chaque mot affiché ci-dessus correspond à mot présent dans le texte. En Bleu sont les mots en faveur du Cyberpunk avec le coefficient associé, en rouge ceux en la défaveur. Si vous voyez des mots présent sur le graphique de la page précédente mais pas sur ce graphique, cela signifie que le mot en question n'est pas dans le texte soumis.</p>
+</div>
+<script src='https://cdn.plot.ly/plotly-latest.min.js'></script>
+<script type='text/javascript'>
+
+    var graphs = {{Graph_predict | safe}};
+    Plotly.plot('words',graphs,{});
+</script>
 
 {% endblock %} 

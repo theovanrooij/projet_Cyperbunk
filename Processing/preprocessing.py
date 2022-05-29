@@ -55,25 +55,15 @@ def Preprocess_list_of_English_Sentence(listofSentence):
 
 # Define English Pre-processing Function
 def Preprocess_English_Sentence(sentence):
-    
-   
-    
     stopwords = nltk.corpus.stopwords.words('english')
     Ewords = set(nltk.corpus.words.words())
     Englishlemmatizer = WordNetLemmatizer()
-        
     sentence_w_punct = "".join([i.lower() for i in sentence if i not in string.punctuation + '”“'])
-
     sentence_w_num = ''.join(i for i in sentence_w_punct if not i.isdigit())
-
     tokenize_sentence = nltk.tokenize.word_tokenize(sentence_w_num)
-
     words_w_stopwords = [i for i in tokenize_sentence if i not in stopwords]
-
     words_lemmatize = (Englishlemmatizer.lemmatize(w) for w in words_w_stopwords)
-
     sentence_clean = ' '.join(w for w in words_lemmatize if w.lower() in Ewords or not w.isalpha())
-
     return sentence_clean
 
 

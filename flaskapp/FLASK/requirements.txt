@@ -1,0 +1,12 @@
+flask
+gunicorn
+werkzeug
+numpy
+sklearn
+plotly
+plotly_express
+pandas
+interpret
+nltk
+flask_wtf
+wtforms
